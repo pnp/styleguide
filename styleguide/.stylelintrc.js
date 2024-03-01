@@ -6,6 +6,7 @@ module.exports = {
     ],
     "rules": {
         "at-rule-empty-line-before": "always",
+        "rule-empty-line-before": "never-multi-line",
         "order/order": [
             "custom-properties",
             "declarations"
