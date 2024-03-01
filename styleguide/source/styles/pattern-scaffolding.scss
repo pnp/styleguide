@@ -1,0 +1,20 @@
+.body-center{
+    margin: auto;
+    display: flex;
+    flex-direction: column;
+    gap: 1rem;
+    justify-content: space-around;
+    align-items: center;
+    align-content: center;
+    width: 400px;
+    height: 300px;
+}
+
+.show-gradient{
+    margin: auto;
+    width: 20svw;
+    &:after{
+        content: " ";
+        display: block;
+    }
+}

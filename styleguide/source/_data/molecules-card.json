@@ -1,0 +1,22 @@
+{
+    "card-side-plate": {
+        "links": [
+            {
+                "url": "https://example.com",
+                "icon": {
+                    "icon-name": "icon-calendar-ltr-filled",
+                    "title": "Calendar icon - Add to your Calendar",
+                    "aria-hidden": true
+                }
+            },
+            {
+                "url": "https://example.com",
+                "icon": {
+                    "icon-name": "icon-video-clip-filled",
+                    "title": "Play button - Visit Youtube",
+                    "aria-hidden": true
+                }
+            }
+        ]
+    }
+}
