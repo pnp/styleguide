@@ -1,0 +1,9 @@
+{
+    "colors": [
+        {
+            "name": "Pure White",
+            "color": "R255 G255 B255",
+            "variables": "--pure-white"
+        }
+    ]
+}
