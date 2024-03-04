@@ -1,0 +1,183 @@
+{
+    "colors": [
+        {
+            "cssVar": "--pure-white",
+            "name": "Pure White"
+        }
+        ,
+        {
+            "cssVar": "--off-white",
+            "name": "Off White"
+        }
+        ,
+        {
+            "cssVar": "--warm-white",
+            "name": "Warm White"
+        }
+        ,
+        {
+            "cssVar": "--warm-light-gray",
+            "name": "Warm Light Gray"
+        }
+        ,
+        {
+            "cssVar": "--mid-gray",
+            "name": "Mid Gray"
+        }
+        ,
+        {
+            "cssVar": "--warm-gray",
+            "name": "Warm Gray"
+        }
+        ,
+        {
+            "cssVar": "--light-brown",
+            "name": "Light Brown"
+        }
+        ,
+        {
+            "cssVar": "--brown",
+            "name": "Brown"
+        }
+        ,
+        {
+            "cssVar": "--dark-brown",
+            "name": "Dark Brown"
+        }
+        ,
+        {
+            "cssVar": "--light-yellow",
+            "name": "Light Yellow"
+        }
+        ,
+        {
+            "cssVar": "--yellow",
+            "name": "Yellow"
+        }
+        ,
+        {
+            "cssVar": "--dark-yellow",
+            "name": "Dark Yellow"
+        }
+        ,
+        {
+            "cssVar": "--light-orange",
+            "name": "Light Orange"
+        }
+        ,
+        {
+            "cssVar": "--orange",
+            "name": "Orange"
+        }
+        ,
+        {
+            "cssVar": "--dark-orange",
+            "name": "Dark Orange"
+        }
+        ,
+        {
+            "cssVar": "--light-red",
+            "name": "Light Red"
+        }
+        ,
+        {
+            "cssVar": "--red",
+            "name": "Red"
+        }
+        ,
+        {
+            "cssVar": "--dark-red",
+            "name": "Dark Red"
+        }
+        ,
+        {
+            "cssVar": "--light-magenta",
+            "name": "Light Magenta"
+        }
+        ,
+        {
+            "cssVar": "--magenta",
+            "name": "Magenta"
+        }
+        ,
+        {
+            "cssVar": "--dark-magenta",
+            "name": "Dark Magenta"
+        }
+        ,
+        {
+            "cssVar": "--light-purple",
+            "name": "Light purple"
+        }
+        ,
+        {
+            "cssVar": "--purple",
+            "name": "purple"
+        }
+        ,
+        {
+            "cssVar": "--dark-purple",
+            "name": "Dark purple"
+        }
+        ,
+        {
+            "cssVar": "--light-blue",
+            "name": "Light blue"
+        }
+        ,
+        {
+            "cssVar": "--blue",
+            "name": "blue"
+        }
+        ,
+        {
+            "cssVar": "--dark-blue",
+            "name": "Dark blue"
+        }
+        ,
+        {
+            "cssVar": "--light-teal",
+            "name": "Light teal"
+        }
+        ,
+        {
+            "cssVar": "--teal",
+            "name": "teal"
+        }
+        ,
+        {
+            "cssVar": "--dark-teal",
+            "name": "Dark teal"
+        }
+        ,
+        {
+            "cssVar": "--light-green",
+            "name": "Light green"
+        }
+        ,
+        {
+            "cssVar": "--green",
+            "name": "green"
+        }
+        ,
+        {
+            "cssVar": "--dark-green",
+            "name": "Dark green"
+        }
+        ,
+        {
+            "cssVar": "--light-black",
+            "name": "Light black"
+        }
+        ,
+        {
+            "cssVar": "--black",
+            "name": "black"
+        }
+        ,
+        {
+            "cssVar": "--dark-black",
+            "name": "Dark black"
+        }
+    ]
+}

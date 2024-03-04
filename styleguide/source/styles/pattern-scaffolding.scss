@@ -18,3 +18,25 @@
         display: block;
     }
 }
+
+.sg-color-box{
+    box-sizing: border-box;
+    display: flex;
+    content: " ";
+    height: 80px;
+    width: 80px;
+    aspect-ratio: 1 / 1;
+    justify-content: flex-end;
+    align-items: flex-end;
+    text-align: right;
+    padding: 0.5rem;
+
+}
+
+.sg-color-grid{
+    display: inline-grid;
+    grid-auto-flow: column;
+    grid-template-rows: repeat(3, 80px);
+    grid-template-columns: repeat(auto, 80px);
+    margin-inline: auto;
+}
