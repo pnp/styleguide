@@ -1,3 +1,5 @@
+@use '00-design-token/sg-index' as design-token;
+
 .body-center{
     margin: auto;
     display: flex;
@@ -39,4 +41,12 @@
     grid-template-rows: repeat(3, 80px);
     grid-template-columns: repeat(auto, 80px);
     margin-inline: auto;
+}
+
+.color-stage{
+    min-height: 100vh;
+    min-width: 100vh;;
+    display: block;
+    content: " ";
+    background: linear-gradient(-135deg, var(--dark-blue) 0%, var(--blue), var(--light-blue) )
 }

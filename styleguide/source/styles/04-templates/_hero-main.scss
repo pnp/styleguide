@@ -1,0 +1,32 @@
+@use '../00-base/designtoken.vars' as dt;
+
+.hero-main{
+    height: 80vh;
+    margin-top: 4vw;
+}
+.hero-main-inner{
+    padding: 4vw;
+    display: grid;
+    grid-template-columns: 2fr 1fr;
+    gap: 6vw;
+    max-width: 1920px;
+    margin: 0 auto;
+    transition: all 0.125s linear;
+}
+.tagline{
+    font-size: clamp(1.25rem, 2vw, 2.75rem);
+    font-weight: 500;
+
+    p,
+    p+p{
+        margin: 0;
+    }
+}
+.call2action{
+    font-size: clamp(1.5rem, 3vw, 5rem);
+    grid-column: 1 / span 2;
+    text-align: center;
+    margin-top: 2vw;
+    font-weight: 600;
+    color: dt.$dark-blue;
+}

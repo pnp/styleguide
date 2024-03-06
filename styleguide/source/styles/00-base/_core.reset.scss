@@ -1,7 +1,8 @@
 body{
     margin: 0;
 
-    font-family: Parker, "Segoe UI", "Segoe Sans", sans-serif;   
+    font-family: Parker, "Segoe UI", "Segoe Sans", sans-serif;
+    text-rendering: geometricPrecision;
 }
 button,
 input,
