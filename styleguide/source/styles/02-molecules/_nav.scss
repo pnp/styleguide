@@ -1,0 +1,47 @@
+@use '../00-base/designtoken.vars' as dt;
+
+.nav-menu {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+    display: inline-flex;
+    font-size: clamp(1.25rem, 1.5vw, 1.5rem);
+    padding-block: 0.35em 0.5em;
+    padding-inline: 0.25rem 0.25rem;
+    background: rgba(255, 255, 255, 0.5);
+    filter: drop-shadow(4px 4px 30px rgba(255, 255, 255, 0.65));
+    backdrop-filter: blur(10px) saturate(180%);
+    // border-bottom-right-radius: 0.5rem;
+    // border-bottom-left-radius: 0.5rem;
+    // border: 1px dt.$off-white solid;
+    border-top: none;
+    // mix-blend-mode: var(--mode);
+
+}
+
+.nav-link {
+    text-decoration: none;
+    text-transform: uppercase;
+    font-weight: 700;
+    padding-block: 0.5em;
+    margin-inline: 0.75em;
+    color: dt.$blue;
+    transition: color 0.125s ease-in;
+    // mix-blend-mode: var(--mode2);
+    white-space: nowrap;
+    // isolation: isolate;
+
+    &:visited {
+        color: dt.$blue;
+    }
+
+    &:hover {
+        color: dt.$dark-blue;
+        transition: color 0.125s ease-out;
+    }
+
+    &:active {
+        color: dt.$blue;
+    }
+
+}

@@ -1,0 +1,9 @@
+.page-header{
+    display: grid;
+    grid-template-columns: repeat(5, 1fr);
+    gap: 2vw;
+    .nav{
+        grid-column: 2 / span 5;
+        text-align: right;;
+    }
+}

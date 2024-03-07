@@ -1,8 +1,8 @@
 @use '../00-base/designtoken.vars' as dt;
 
 .hero-main {
-    height: 85vh;
-    margin-top: 4vw;
+    height: 75vh;
+    margin-top: 10vw;
     background: linear-gradient(to bottom, dt.$pure-white 85%, dt.$blue),
         linear-gradient(-175deg, dt.$pure-white 85%, dt.$teal),
         linear-gradient(-195deg, dt.$pure-white 85%, dt.$purple);

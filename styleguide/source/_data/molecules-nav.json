@@ -1,0 +1,33 @@
+{
+    "nav-primary": [
+        {
+            "link": "https://example.com",
+            "title": "Blog"
+        }
+        ,
+        {
+            "link": "https://example.com",
+            "title": "Community Calls"
+        }
+        ,
+        {
+            "link": "https://example.com",
+            "title": "Guidance"
+        }
+        ,
+        {
+            "link": "https://example.com",
+            "title": "Samples & Solutions"
+        }
+        ,
+        {
+            "link": "https://example.com",
+            "title": "SDKS"
+        }
+        ,
+        {
+            "link": "https://example.com",
+            "title": "Tools"
+        }
+    ]
+}

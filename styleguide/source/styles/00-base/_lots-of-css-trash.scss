@@ -3,64 +3,64 @@
 
   }
   
-  .nav {
-    position: fixed;
-    z-index: 1;
-    top: 0;
-    right: 0;
-    left: 0;
+  // .nav {
+  //   position: fixed;
+  //   z-index: 1;
+  //   top: 0;
+  //   right: 0;
+  //   left: 0;
 
-    backdrop-filter: blur(20px) saturate(400%) brightness(400%);
-    backdrop-filter: blur(3px) saturate(220%);
-    background-image: var(--frosted-glass);
-    background-size: var(--frosted-glass-size);
-    filter: drop-shadow(0px 5px 5px rgba(0, 0, 0, 0.5)) saturate(400%);
+  //   backdrop-filter: blur(20px) saturate(400%) brightness(400%);
+  //   backdrop-filter: blur(3px) saturate(220%);
+  //   background-image: var(--frosted-glass);
+  //   background-size: var(--frosted-glass-size);
+  //   filter: drop-shadow(0px 5px 5px rgba(0, 0, 0, 0.5)) saturate(400%);
 
-    background: rgba(255, 255, 255, 0.5);
-  }
+  //   background: rgba(255, 255, 255, 0.5);
+  // }
   
-  .menu {
-    display: flex;
-    height: 4rem;
-    margin: 0;
+  // .menu {
+  //   display: flex;
+  //   height: 4rem;
+  //   margin: 0;
 
-    gap: 2rem;
-    flex-direction: row;
-    align-items: center;
+  //   gap: 2rem;
+  //   flex-direction: row;
+  //   align-items: center;
 
-    font-size: 1rem;
-    font-weight: 900;
-    text-transform: uppercase;
+  //   font-size: 1rem;
+  //   font-weight: 900;
+  //   text-transform: uppercase;
 
-    color: black;
-    list-style-type: none;
+  //   color: black;
+  //   list-style-type: none;
 
-    paddding: 0;
-    li {
-      position: relative;
+  //   paddding: 0;
+  //   li {
+  //     position: relative;
 
-      box-sizing: border-box;
-      padding: 0.25rem;
+  //     box-sizing: border-box;
+  //     padding: 0.25rem;
 
-      text-align: center;
-      text-transform: inherit;
+  //     text-align: center;
+  //     text-transform: inherit;
 
-      color: black;
-      &:before {
-        position: absolute;
-        bottom: 0;
+  //     color: black;
+  //     &:before {
+  //       position: absolute;
+  //       bottom: 0;
 
-        display: block;
-        width: calc(100% - 6px);
-        height: 3px;
-        border-radius: 6px;
+  //       display: block;
+  //       width: calc(100% - 6px);
+  //       height: 3px;
+  //       border-radius: 6px;
 
-        background-color: orange;
+  //       background-color: orange;
 
-        content: " ";
-      }
-    }
-  }
+  //       content: " ";
+  //     }
+  //   }
+  // }
   
   .wrapper {
     max-width: 1920px;
