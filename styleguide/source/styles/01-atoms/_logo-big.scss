@@ -45,6 +45,9 @@
     background-clip: text;
 
     animation: rotate-background 60s ease-in-out infinite;
+    @media screen and (max-width: 720px){
+        font-size: clamp(1rem, 9vw, 3.25rem);
+    }
 
 }
 
