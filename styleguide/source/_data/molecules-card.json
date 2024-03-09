@@ -4,6 +4,14 @@
             {
                 "url": "https://example.com",
                 "icon": {
+                    "icon-name": "ms-teams-2",
+                    "title": "Join in Microsoft Teams",
+                    "aria-hidden": true
+                }
+            },
+            {
+                "url": "https://example.com",
+                "icon": {
                     "icon-name": "icon-calendar-ltr-filled",
                     "title": "Calendar icon - Add to your Calendar",
                     "aria-hidden": true

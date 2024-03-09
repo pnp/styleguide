@@ -43,10 +43,15 @@
     background: dt.$grad-lin-1;
     background-size: 400% 400%;
     background-clip: text;
-
-    animation: rotate-background 60s ease-in-out infinite;
-    @media screen and (max-width: 720px){
-        font-size: clamp(1rem, 9vw, 3.25rem);
+    // backdrop-filter: blur(10px) saturate(110%);
+    // filter: drop-shadow(-0.0625em -0.0625em 0.0625em rgba(255,255,255,.2))
+    //         drop-shadow(-0.125em 0.125em 0.0625em rgba(255,255,255,.2))
+    //         drop-shadow(0.125em -0.125em 0.0625em rgba(255,255,255,.2))
+    //         drop-shadow(-0.125em -0.125em 0.0625em rgba(255,255,255,.2));
+            
+    animation: rotate-background 30s ease-in-out infinite;
+    @media screen and (max-width: 1024px){
+        font-size: clamp(1rem, 9vw, 10rem);
     }
 
 }

@@ -3,9 +3,9 @@
 .hero-main {
     height: 75vh;
     margin-top: 10vw;
-    background: linear-gradient(to bottom, dt.$pure-white 85%, dt.$blue),
-        linear-gradient(-175deg, dt.$pure-white 85%, dt.$teal),
-        linear-gradient(-195deg, dt.$pure-white 85%, dt.$purple);
+    // background: linear-gradient(to bottom, dt.$pure-white 85%, dt.$blue),
+    //     linear-gradient(-175deg, dt.$pure-white 85%, dt.$teal),
+    //     linear-gradient(-195deg, dt.$pure-white 85%, dt.$purple);
     background-blend-mode: multiply;
     background-size: cover, cover, cover;
     @media screen and (max-width: 1024px){

@@ -1,4 +1,4 @@
 {
-    "bodyClass": "body-center",
+    "bodyClass": "body-test",
     "bodyStyle": "background-image: var(--frosted-glass); background-size: cover;"
 }

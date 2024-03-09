@@ -1,18 +1,26 @@
+"use strict"
+
 const hamburgerMenu = document.querySelector('.hamburger');
+const menuPrimary = document.querySelector('.nav-menu.primary');
 
+const showMenu = evt => {
 
-if(hamburgerMenu){
+    hamburgerMenu.classList.toggle('show');
 
-    hamburgerMenu.addEventListener('click', evt => {
+    if(hamburgerMenu.classList.contains('show')){
+        hamburgerMenu.ariaLabeledBy = "Hurra";
+        menuPrimary.ariaExpanded = true;
+        menuPrimary.focus()
+    } else {
+        hamburgerMenu.ariaLabeledBy = "murks";
+        menuPrimary.ariaExpanded = false;
+        hamburgerMenu.focus();
+    }
 
-        hamburgerMenu.classList.toggle('show');
+}
 
-        if(hamburgerMenu.classList.contains('show')){
-            hamburgerMenu.ariaLabeledBy = "Hurra";
-        } else {
-            hamburgerMenu.ariaLabeledBy = "murks";
-        }
+if(hamburgerMenu && menuPrimary){
 
-    });
+    hamburgerMenu.addEventListener('click', showMenu);
 
 }
