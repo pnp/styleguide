@@ -1,10 +1,12 @@
+{{#event-section }}
 <section class="section-base">
     <div class="section-inner">
         <header>
-            <H1>{{ seaction-headline }}</H1>
-            <p>{{ section-description }}</p>
+            <H1>{{ headline }}</H1>
+            <p>{{ description }}</p>
         </header>
         <menu class="section-grid">
+            {{#each cards }}
             <li>
                 {{>organisms-event-card}}
             </li>
@@ -23,6 +25,8 @@
             <li>
                 {{>organisms-event-card}}
             </li>
+            {{/each}}
         </menu>
     </div>
 </section>
+{{/event-section }}

@@ -1,0 +1,26 @@
+{{#team-section }}
+<section class="section-base team">
+    <div class="section-inner">
+        <menu class="section-grid">
+            <li class="teams-header">
+                <header>
+                    <H1>{{ headline }}</H1>
+                    {{#each description}}
+                    <p>{{ this }}</p>
+                    {{/each}}
+                </header>
+            </li>
+            {{#each profiles }}
+            <li>
+                {{>organisms-people-card}}
+            </li>
+            {{/each}}
+            <li class="teams-end">
+                <p>
+                    Start contributing today
+                </p>
+            </li>
+        </menu>
+    </div>
+</section>
+{{/team-section }}

@@ -1,7 +1,7 @@
 @use '../00-base/designtoken.vars' as dt;
 
 .hero-main {
-    height: 75vh;
+    min-height: 75vh;
     margin-top: 10vw;
     // background: linear-gradient(to bottom, dt.$pure-white 85%, dt.$blue),
     //     linear-gradient(-175deg, dt.$pure-white 85%, dt.$teal),
@@ -9,7 +9,8 @@
     background-blend-mode: multiply;
     background-size: cover, cover, cover;
     @media screen and (max-width: 1024px){
-        margin-top: 10vh;
+        margin-top: 10svh;
+        margin-bottom: 25svh;;
     }
 }
 

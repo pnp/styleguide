@@ -1,0 +1,16 @@
+<div class="card-main">
+        {{#profile }}
+        <div class="profile-data">
+            {{#profile-picture }}
+            <img src="{{ img }}" alt="Profile pucture of {{ alt }}" class="profile-picture">
+            {{/profile-picture }}
+            <span class="profile-name">
+                <h1>{{ name }}</h1>
+                {{#if title}}
+                <span class="profile-mvp">{{ title }}</span>
+                {{/if}}
+                <div class="profile-company">{{ company }}</div>
+            </span>
+        </h1>
+        {{/profile }}
+</div>

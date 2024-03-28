@@ -4,8 +4,8 @@
         top: 0;
         right: 0;
         left: 0;
-        @media screen and (max-width: 1024px) {
-            z-index: 100;
-        }
+        z-index: 100;
+        background-color: rgba(255,255,255,0.25);
+        backdrop-filter: blur(10px) saturate(120%);
     }
 }

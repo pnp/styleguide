@@ -1,0 +1,221 @@
+{
+    "event-section": {
+        "headline": "Microsoft 365 & Power Platform Community Callls",
+        "description": "Stay up-to-date with the latest in Microsoft 365 & Power Platform topics",
+        "cards": [
+            {
+                "card-side-plate": {
+                    "links": [
+                        {
+                            "url": "https://example.com",
+                            "icon": {
+                                "icon-name": "ms-teams-2",
+                                "title": "Join in Microsoft Teams",
+                                "aria-hidden": true
+                            }
+                        },
+                        {
+                            "url": "https://example.com",
+                            "icon": {
+                                "icon-name": "icon-calendar-ltr-filled",
+                                "title": "Calendar icon - Add to your Calendar",
+                                "aria-hidden": true
+                            }
+                        },
+                        {
+                            "url": "https://example.com",
+                            "icon": {
+                                "icon-name": "icon-video-clip-filled",
+                                "title": "Play button - Visit Youtube",
+                                "aria-hidden": true
+                            }
+                        }
+                    ]
+                },
+                "card-content-event":{
+                    "title": "Microsoft 365 & Power Platform Call",
+                    "presenter": "presented by Microsoft",
+                    "occurence": "Weekly on Tuesdays",
+                    "time": "8:00 AM PT / 4:00 PM GMT"
+                }
+            }
+            ,
+            {
+                "card-side-plate": {
+                    "links": [
+                        {
+                            "url": "https://example.com",
+                            "icon": {
+                                "icon-name": "ms-teams-2",
+                                "title": "Join in Microsoft Teams",
+                                "aria-hidden": true
+                            }
+                        },
+                        {
+                            "url": "https://example.com",
+                            "icon": {
+                                "icon-name": "icon-calendar-ltr-filled",
+                                "title": "Calendar icon - Add to your Calendar",
+                                "aria-hidden": true
+                            }
+                        },
+                        {
+                            "url": "https://example.com",
+                            "icon": {
+                                "icon-name": "icon-video-clip-filled",
+                                "title": "Play button - Visit Youtube",
+                                "aria-hidden": true
+                            }
+                        }
+                    ]
+                },
+                "card-content-event":{
+                    "title": "Viva Connections & SharePoint Framework",
+                    "presenter": "presented by the Community",
+                    "occurence": "Bi-weekly on Thursdays",
+                    "time": "7:00 AM PT / 3:00 PM GMT"
+                }
+            }
+            ,
+            {
+                "card-side-plate": {
+                    "links": [
+                        {
+                            "url": "https://example.com",
+                            "icon": {
+                                "icon-name": "ms-teams-2",
+                                "title": "Join in Microsoft Teams",
+                                "aria-hidden": true
+                            }
+                        },
+                        {
+                            "url": "https://example.com",
+                            "icon": {
+                                "icon-name": "icon-calendar-ltr-filled",
+                                "title": "Calendar icon - Add to your Calendar",
+                                "aria-hidden": true
+                            }
+                        },
+                        {
+                            "url": "https://example.com",
+                            "icon": {
+                                "icon-name": "icon-video-clip-filled",
+                                "title": "Play button - Visit Youtube",
+                                "aria-hidden": true
+                            }
+                        }
+                    ]
+                },
+                "card-content-event":{
+                    "title": "Microsoft 365 & Power Platform call",
+                    "presenter": "presented by the Community",
+                    "occurence": "Bi-weekly on Thursdays",
+                    "time": "7:00 AM PT / 3:00 PM GMT"
+                }
+            }
+            ,
+            {
+                "card-side-plate": {
+                    "links": [
+                        {
+                            "url": "https://example.com",
+                            "icon": {
+                                "icon-name": "ms-teams-2",
+                                "title": "Join in Microsoft Teams",
+                                "aria-hidden": true
+                            }
+                        },
+                        {
+                            "url": "https://example.com",
+                            "icon": {
+                                "icon-name": "icon-calendar-ltr-filled",
+                                "title": "Calendar icon - Add to your Calendar",
+                                "aria-hidden": true
+                            }
+                        },
+                        {
+                            "url": "https://example.com",
+                            "icon": {
+                                "icon-name": "icon-video-clip-filled",
+                                "title": "Play button - Visit Youtube",
+                                "aria-hidden": true
+                            }
+                        }
+                    ]
+                },
+                "card-content-event":{
+                    "title": "Power Platform Monthly Call",
+                    "presenter": "presented by the Community",
+                    "occurence": "Third Wednesday of every month",
+                    "time": "8:00 AM PT / 4:00 PM GMT"
+                }
+            }
+            ,
+            {
+                "card-side-plate": {
+                    "links": [
+                        {
+                            "url": "https://example.com",
+                            "icon": {
+                                "icon-name": "icon-calendar-ltr-filled",
+                                "title": "Calendar icon - Add to your Calendar",
+                                "aria-hidden": true
+                            }
+                        },
+                        {
+                            "url": "https://example.com",
+                            "icon": {
+                                "icon-name": "icon-video-clip-filled",
+                                "title": "Play button - Visit Youtube",
+                                "aria-hidden": true
+                            }
+                        }
+                    ]
+                },
+                "card-content-event":{
+                    "title": "Office Add-ins",
+                    "presenter": "presented by Microsoft",
+                    "occurence": "Second Wednesday of every month",
+                    "time": "7:00 AM PT / 3:00 PM GMT"
+                }
+            }
+            ,
+            {
+                "card-side-plate": {
+                    "links": [
+                        {
+                            "url": "https://example.com",
+                            "icon": {
+                                "icon-name": "ms-teams-2",
+                                "title": "Join in Microsoft Teams",
+                                "aria-hidden": true
+                            }
+                        },
+                        {
+                            "url": "https://example.com",
+                            "icon": {
+                                "icon-name": "icon-calendar-ltr-filled",
+                                "title": "Calendar icon - Add to your Calendar",
+                                "aria-hidden": true
+                            }
+                        },
+                        {
+                            "url": "https://example.com",
+                            "icon": {
+                                "icon-name": "icon-video-clip-filled",
+                                "title": "Play button - Visit Youtube",
+                                "aria-hidden": true
+                            }
+                        }
+                    ]
+                },
+                "card-content-event":{
+                    "title": "Maturity Model for Microsoft 365",
+                    "presenter": "presented by the Community",
+                    "occurence": "Third Tuesday of every month",
+                    "time": "7:00 AM PT / 3:00 PM GMT"
+                }
+            }
+        ]
+    }
+}

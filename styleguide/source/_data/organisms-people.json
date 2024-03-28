@@ -1,0 +1,1670 @@
+{
+    "team-section": {
+        "headline": "Microsoft 365 & Power Platform Community initiative coordinators",
+        "description": [
+            "The community team is a virtual team consisting of Microsoft employees and community members focused on helping the community make the best use of Microsoft products.",
+            "We believe that by sharing guidance, tools, solutions, and samples, we better both the community itself and the quality of solutions created by the community.",
+            "This initiative is not about any one person or group of people: it is about improving things for the greater good of the community."
+        ],
+        "profiles": [
+            {
+                "profile": {
+                    "name": "April Dunnam",
+                    "company": "Microsoft",
+                    "profile-picture": {
+                        "img": "/images/team/aprildunnam.jpg",
+                        "alt": "April Dunnam"
+                    }
+                },
+                "card-side-plate": {
+                    "links": [
+                        {
+                            "url": "https://example.com",
+                            "icon": {
+                                "icon-name": "icon-github",
+                                "title": "Follow me on Github",
+                                "aria-hidden": true
+                            }
+                        },
+                        {
+                            "url": "https://example.com",
+                            "icon": {
+                                "icon-name": "icon-linkedin",
+                                "title": "Connect on LinkedIn",
+                                "aria-hidden": true
+                            }
+                        }
+                    ]
+                }
+            },
+            {
+                "profile": {
+                    "name": "Chandani Prajapati",
+                    "company": "Rapid Circle",
+                    "title": "MVP",
+                    "profile-picture": {
+                        "img": "/images/team/chandaniprajapati.jpg",
+                        "alt": "Chandani Prajapati"
+                    }
+                },
+                "card-side-plate": {
+                    "links": [
+                        {
+                            "url": "https://example.com",
+                            "icon": {
+                                "icon-name": "icon-github",
+                                "title": "Follow me on Github",
+                                "aria-hidden": true
+                            }
+                        },
+                        {
+                            "url": "https://example.com",
+                            "icon": {
+                                "icon-name": "icon-linkedin",
+                                "title": "Connect on LinkedIn",
+                                "aria-hidden": true
+                            }
+                        }
+                    ]
+                }
+            },
+            {
+                "profile": {
+                    "name": "Emily Mancini",
+                    "company": "Sympraxis Consulting",
+                    "title": "MVP",
+                    "profile-picture": {
+                        "img": "/images/team/emilymancini.jpg",
+                        "alt": "Emily Mancini"
+                    }
+                },
+                "card-side-plate": {
+                    "links": [
+                        {
+                            "url": "https://example.com",
+                            "icon": {
+                                "icon-name": "icon-github",
+                                "title": "Follow me on Github",
+                                "aria-hidden": true
+                            }
+                        },
+                        {
+                            "url": "https://example.com",
+                            "icon": {
+                                "icon-name": "icon-linkedin",
+                                "title": "Connect on LinkedIn",
+                                "aria-hidden": true
+                            }
+                        }
+                    ]
+                }
+            },
+            {
+                "profile": {
+                    "name": "Geetha Sivasailam",
+                    "company": "Artis Consulting",
+                    "title": "MVP",
+                    "profile-picture": {
+                        "img": "/images/team/geethasivasailam.jpg",
+                        "alt": "Geetha Sivasailam"
+                    }
+                },
+                "card-side-plate": {
+                    "links": [
+                        {
+                            "url": "https://example.com",
+                            "icon": {
+                                "icon-name": "icon-github",
+                                "title": "Follow me on Github",
+                                "aria-hidden": true
+                            }
+                        },
+                        {
+                            "url": "https://example.com",
+                            "icon": {
+                                "icon-name": "icon-linkedin",
+                                "title": "Connect on LinkedIn",
+                                "aria-hidden": true
+                            }
+                        }
+                    ]
+                }
+            },
+            {
+                "profile": {
+                    "name": "Julie Turner",
+                    "company": "Sympraxis Consulting",
+                    "title": "MVP",
+                    "profile-picture": {
+                        "img": "/images/team/julieturner.jpg",
+                        "alt": "Julie Turner"
+                    }
+                },
+                "card-side-plate": {
+                    "links": [
+                        {
+                            "url": "https://example.com",
+                            "icon": {
+                                "icon-name": "icon-github",
+                                "title": "Follow me on Github",
+                                "aria-hidden": true
+                            }
+                        },
+                        {
+                            "url": "https://example.com",
+                            "icon": {
+                                "icon-name": "icon-linkedin",
+                                "title": "Connect on LinkedIn",
+                                "aria-hidden": true
+                            }
+                        }
+                    ]
+                }
+            },
+            {
+                "profile": {
+                    "name": "Jocelyn Panchal",
+                    "company": "Microsoft",
+                    "profile-picture": {
+                        "img": "/images/team/jocelynpanchal.jpg",
+                        "alt": "Jocelyn Panchal"
+                    }
+                },
+                "card-side-plate": {
+                    "links": [
+                        {
+                            "url": "https://example.com",
+                            "icon": {
+                                "icon-name": "icon-github",
+                                "title": "Follow me on Github",
+                                "aria-hidden": true
+                            }
+                        },
+                        {
+                            "url": "https://example.com",
+                            "icon": {
+                                "icon-name": "icon-linkedin",
+                                "title": "Connect on LinkedIn",
+                                "aria-hidden": true
+                            }
+                        }
+                    ]
+                }
+            },
+            {
+                "profile": {
+                    "name": "Laura Kokkarinen",
+                    "company": "Sulava",
+                    "title": "MVP",
+                    "profile-picture": {
+                        "img": "/images/team/laurakokkarinen.jpg",
+                        "alt": "Laura Kokkarinen"
+                    }
+                },
+                "card-side-plate": {
+                    "links": [
+                        {
+                            "url": "https://example.com",
+                            "icon": {
+                                "icon-name": "icon-github",
+                                "title": "Follow me on Github",
+                                "aria-hidden": true
+                            }
+                        },
+                        {
+                            "url": "https://example.com",
+                            "icon": {
+                                "icon-name": "icon-linkedin",
+                                "title": "Connect on LinkedIn",
+                                "aria-hidden": true
+                            }
+                        }
+                    ]
+                }
+            },
+            {
+                "profile": {
+                    "name": "Luise Freese",
+                    "company": "M365 Princess",
+                    "title": "MVP",
+                    "profile-picture": {
+                        "img": "/images/team/luisefreese.jpg",
+                        "alt": "Luise Freese"
+                    }
+                },
+                "card-side-plate": {
+                    "links": [
+                        {
+                            "url": "https://example.com",
+                            "icon": {
+                                "icon-name": "icon-github",
+                                "title": "Follow me on Github",
+                                "aria-hidden": true
+                            }
+                        },
+                        {
+                            "url": "https://example.com",
+                            "icon": {
+                                "icon-name": "icon-linkedin",
+                                "title": "Connect on LinkedIn",
+                                "aria-hidden": true
+                            }
+                        }
+                    ]
+                }
+            },
+            {
+                "profile": {
+                    "name": "Rabia Williams",
+                    "company": "Microsoft",
+                    "profile-picture": {
+                        "img": "/images/team/rabiawilliams.jpg",
+                        "alt": "Rabia Williams"
+                    }
+                },
+                "card-side-plate": {
+                    "links": [
+                        {
+                            "url": "https://example.com",
+                            "icon": {
+                                "icon-name": "icon-github",
+                                "title": "Follow me on Github",
+                                "aria-hidden": true
+                            }
+                        },
+                        {
+                            "url": "https://example.com",
+                            "icon": {
+                                "icon-name": "icon-linkedin",
+                                "title": "Connect on LinkedIn",
+                                "aria-hidden": true
+                            }
+                        }
+                    ]
+                }
+            },
+            {
+                "profile": {
+                    "name": "Veronique Lengelle",
+                    "company": "CPS",
+                    "title": "MVP",
+                    "profile-picture": {
+                        "img": "/images/team/veroniquelengelle.jpg",
+                        "alt": "Veronique Lengelle"
+                    }
+                },
+                "card-side-plate": {
+                    "links": [
+                        {
+                            "url": "https://example.com",
+                            "icon": {
+                                "icon-name": "icon-github",
+                                "title": "Follow me on Github",
+                                "aria-hidden": true
+                            }
+                        },
+                        {
+                            "url": "https://example.com",
+                            "icon": {
+                                "icon-name": "icon-linkedin",
+                                "title": "Connect on LinkedIn",
+                                "aria-hidden": true
+                            }
+                        }
+                    ]
+                }
+            },
+            {
+                "profile": {
+                    "name": "Adam Wójcik",
+                    "company": "Hitachi Energy",
+                    "title": "MVP",
+                    "profile-picture": {
+                        "img": "/images/team/adamwojcik.jpg",
+                        "alt": "Adam Wójcik"
+                    }
+                },
+                "card-side-plate": {
+                    "links": [
+                        {
+                            "url": "https://example.com",
+                            "icon": {
+                                "icon-name": "icon-github",
+                                "title": "Follow me on Github",
+                                "aria-hidden": true
+                            }
+                        },
+                        {
+                            "url": "https://example.com",
+                            "icon": {
+                                "icon-name": "icon-linkedin",
+                                "title": "Connect on LinkedIn",
+                                "aria-hidden": true
+                            }
+                        }
+                    ]
+                }
+            },
+            {
+                "profile": {
+                    "name": "Albert-Jan Schot",
+                    "company": "BLIS.digital",
+                    "title": "MVP",
+                    "profile-picture": {
+                        "img": "/images/team/albertjanschot.jpg",
+                        "alt": "Albert-Jan Schot"
+                    }
+                },
+                "card-side-plate": {
+                    "links": [
+                        {
+                            "url": "https://example.com",
+                            "icon": {
+                                "icon-name": "icon-github",
+                                "title": "Follow me on Github",
+                                "aria-hidden": true
+                            }
+                        },
+                        {
+                            "url": "https://example.com",
+                            "icon": {
+                                "icon-name": "icon-linkedin",
+                                "title": "Connect on LinkedIn",
+                                "aria-hidden": true
+                            }
+                        }
+                    ]
+                }
+            },
+            {
+                "profile": {
+                    "name": "Alex Terentiev",
+                    "company": "Microsoft",
+                    "profile-picture": {
+                        "img": "/images/team/alexterentiev.jpg",
+                        "alt": "Alex Terentiev"
+                    }
+                },
+                "card-side-plate": {
+                    "links": [
+                        {
+                            "url": "https://example.com",
+                            "icon": {
+                                "icon-name": "icon-github",
+                                "title": "Follow me on Github",
+                                "aria-hidden": true
+                            }
+                        },
+                        {
+                            "url": "https://example.com",
+                            "icon": {
+                                "icon-name": "icon-linkedin",
+                                "title": "Connect on LinkedIn",
+                                "aria-hidden": true
+                            }
+                        }
+                    ]
+                }
+            },
+            {
+                "profile": {
+                    "name": "Andrew Connell",
+                    "company": "Voitanos",
+                    "title": "MVP",
+                    "profile-picture": {
+                        "img": "/images/team/andrewconnell.jpg",
+                        "alt": "Andrew Connell"
+                    }
+                },
+                "card-side-plate": {
+                    "links": [
+                        {
+                            "url": "https://example.com",
+                            "icon": {
+                                "icon-name": "icon-github",
+                                "title": "Follow me on Github",
+                                "aria-hidden": true
+                            }
+                        },
+                        {
+                            "url": "https://example.com",
+                            "icon": {
+                                "icon-name": "icon-linkedin",
+                                "title": "Connect on LinkedIn",
+                                "aria-hidden": true
+                            }
+                        }
+                    ]
+                }
+            },
+            {
+                "profile": {
+                    "name": "Andrew Koltyakov",
+                    "company": "Arvo Systems",
+                    "title": "MVP",
+                    "profile-picture": {
+                        "img": "/images/team/andrewkoltyakov.jpg",
+                        "alt": "Andrew Koltyakov"
+                    }
+                },
+                "card-side-plate": {
+                    "links": [
+                        {
+                            "url": "https://example.com",
+                            "icon": {
+                                "icon-name": "icon-github",
+                                "title": "Follow me on Github",
+                                "aria-hidden": true
+                            }
+                        },
+                        {
+                            "url": "https://example.com",
+                            "icon": {
+                                "icon-name": "icon-linkedin",
+                                "title": "Connect on LinkedIn",
+                                "aria-hidden": true
+                            }
+                        }
+                    ]
+                }
+            },
+            {
+                "profile": {
+                    "name": "Anoop Tatti",
+                    "company": "Content+Cloud",
+                    "title": "MVP",
+                    "profile-picture": {
+                        "img": "/images/team/anooptatti.jpg",
+                        "alt": "Anoop Tatti"
+                    }
+                },
+                "card-side-plate": {
+                    "links": [
+                        {
+                            "url": "https://example.com",
+                            "icon": {
+                                "icon-name": "icon-github",
+                                "title": "Follow me on Github",
+                                "aria-hidden": true
+                            }
+                        },
+                        {
+                            "url": "https://example.com",
+                            "icon": {
+                                "icon-name": "icon-linkedin",
+                                "title": "Connect on LinkedIn",
+                                "aria-hidden": true
+                            }
+                        }
+                    ]
+                }
+            },
+            {
+                "profile": {
+                    "name": "Arjun Menon",
+                    "company": "TCS",
+                    "title": "MVP",
+                    "profile-picture": {
+                        "img": "/images/team/arjunumenon.jpg",
+                        "alt": "Arjun Menon"
+                    }
+                },
+                "card-side-plate": {
+                    "links": [
+                        {
+                            "url": "https://example.com",
+                            "icon": {
+                                "icon-name": "icon-github",
+                                "title": "Follow me on Github",
+                                "aria-hidden": true
+                            }
+                        },
+                        {
+                            "url": "https://example.com",
+                            "icon": {
+                                "icon-name": "icon-linkedin",
+                                "title": "Connect on LinkedIn",
+                                "aria-hidden": true
+                            }
+                        }
+                    ]
+                }
+            },
+            {
+                "profile": {
+                    "name": "Beau Cameron",
+                    "company": "DMI",
+                    "title": "MVP",
+                    "profile-picture": {
+                        "img": "/images/team/beaucameron.jpg",
+                        "alt": "Beau Cameron"
+                    }
+                },
+                "card-side-plate": {
+                    "links": [
+                        {
+                            "url": "https://example.com",
+                            "icon": {
+                                "icon-name": "icon-github",
+                                "title": "Follow me on Github",
+                                "aria-hidden": true
+                            }
+                        },
+                        {
+                            "url": "https://example.com",
+                            "icon": {
+                                "icon-name": "icon-linkedin",
+                                "title": "Connect on LinkedIn",
+                                "aria-hidden": true
+                            }
+                        }
+                    ]
+                }
+            },
+            {
+                "profile": {
+                    "name": "Bert Jansen",
+                    "company": "Microsoft",
+                    "profile-picture": {
+                        "img": "/images/team/bertjansen.jpg",
+                        "alt": "Bert Jansen"
+                    }
+                },
+                "card-side-plate": {
+                    "links": [
+                        {
+                            "url": "https://example.com",
+                            "icon": {
+                                "icon-name": "icon-github",
+                                "title": "Follow me on Github",
+                                "aria-hidden": true
+                            }
+                        },
+                        {
+                            "url": "https://example.com",
+                            "icon": {
+                                "icon-name": "icon-linkedin",
+                                "title": "Connect on LinkedIn",
+                                "aria-hidden": true
+                            }
+                        }
+                    ]
+                }
+            },
+            {
+                "profile": {
+                    "name": "Bob German",
+                    "company": "Microsoft",
+                    "profile-picture": {
+                        "img": "/images/team/bobgerman.jpg",
+                        "alt": "Bob German"
+                    }
+                },
+                "card-side-plate": {
+                    "links": [
+                        {
+                            "url": "https://example.com",
+                            "icon": {
+                                "icon-name": "icon-github",
+                                "title": "Follow me on Github",
+                                "aria-hidden": true
+                            }
+                        },
+                        {
+                            "url": "https://example.com",
+                            "icon": {
+                                "icon-name": "icon-linkedin",
+                                "title": "Connect on LinkedIn",
+                                "aria-hidden": true
+                            }
+                        }
+                    ]
+                }
+            },
+            {
+                "profile": {
+                    "name": "Chris Kent",
+                    "company": "Takeda",
+                    "title": "MVP",
+                    "profile-picture": {
+                        "img": "https://pnp.github.io/images/team/thechriskent.jpg",
+                        "alt": "Chris Kent"
+                    }
+                },
+                "card-side-plate": {
+                    "links": [
+                        {
+                            "url": "https://example.com",
+                            "icon": {
+                                "icon-name": "icon-github",
+                                "title": "Follow me on Github",
+                                "aria-hidden": true
+                            }
+                        },
+                        {
+                            "url": "https://example.com",
+                            "icon": {
+                                "icon-name": "icon-linkedin",
+                                "title": "Connect on LinkedIn",
+                                "aria-hidden": true
+                            }
+                        }
+                    ]
+                }
+            },
+            {
+                "profile": {
+                    "name": "Daniel Laskewitz",
+                    "company": "Microsoft",
+                    "profile-picture": {
+                        "img": "/images/team/daniellaskewitz.jpg",
+                        "alt": "Daniel Laskewitz"
+                    }
+                },
+                "card-side-plate": {
+                    "links": [
+                        {
+                            "url": "https://example.com",
+                            "icon": {
+                                "icon-name": "icon-github",
+                                "title": "Follow me on Github",
+                                "aria-hidden": true
+                            }
+                        },
+                        {
+                            "url": "https://example.com",
+                            "icon": {
+                                "icon-name": "icon-linkedin",
+                                "title": "Connect on LinkedIn",
+                                "aria-hidden": true
+                            }
+                        }
+                    ]
+                }
+            },
+            {
+                "profile": {
+                    "name": "David Warner",
+                    "company": "Microsoft",
+                    "profile-picture": {
+                        "img": "/images/team/davidwarner.jpg",
+                        "alt": "David Warner"
+                    }
+                },
+                "card-side-plate": {
+                    "links": [
+                        {
+                            "url": "https://example.com",
+                            "icon": {
+                                "icon-name": "icon-github",
+                                "title": "Follow me on Github",
+                                "aria-hidden": true
+                            }
+                        },
+                        {
+                            "url": "https://example.com",
+                            "icon": {
+                                "icon-name": "icon-linkedin",
+                                "title": "Connect on LinkedIn",
+                                "aria-hidden": true
+                            }
+                        }
+                    ]
+                }
+            },
+            {
+                "profile": {
+                    "name": "Derek Cash-Peterson",
+                    "company": "Sympraxis Consulting",
+                    "title": "MVP",
+                    "profile-picture": {
+                        "img": "/images/team/derekcashpeterson.jpg",
+                        "alt": "Derek Cash-Peterson"
+                    }
+                },
+                "card-side-plate": {
+                    "links": [
+                        {
+                            "url": "https://example.com",
+                            "icon": {
+                                "icon-name": "icon-github",
+                                "title": "Follow me on Github",
+                                "aria-hidden": true
+                            }
+                        },
+                        {
+                            "url": "https://example.com",
+                            "icon": {
+                                "icon-name": "icon-linkedin",
+                                "title": "Connect on LinkedIn",
+                                "aria-hidden": true
+                            }
+                        }
+                    ]
+                }
+            },
+            {
+                "profile": {
+                    "name": "Elio Struyf",
+                    "company": "Struyf Consulting",
+                    "title": "MVP",
+                    "profile-picture": {
+                        "img": "/images/team/eliostruyf.jpg",
+                        "alt": "Elio Stuyf"
+                    }
+                },
+                "card-side-plate": {
+                    "links": [
+                        {
+                            "url": "https://example.com",
+                            "icon": {
+                                "icon-name": "icon-github",
+                                "title": "Follow me on Github",
+                                "aria-hidden": true
+                            }
+                        },
+                        {
+                            "url": "https://example.com",
+                            "icon": {
+                                "icon-name": "icon-linkedin",
+                                "title": "Connect on LinkedIn",
+                                "aria-hidden": true
+                            }
+                        }
+                    ]
+                }
+            },
+            {
+                "profile": {
+                    "name": "Fabio Franzini",
+                    "company": "Apvee Solutions",
+                    "profile-picture": {
+                        "img": "/images/team/fabiofranzini.jpg",
+                        "alt": "Fabio Franzini"
+                    }
+                },
+                "card-side-plate": {
+                    "links": [
+                        {
+                            "url": "https://example.com",
+                            "icon": {
+                                "icon-name": "icon-github",
+                                "title": "Follow me on Github",
+                                "aria-hidden": true
+                            }
+                        },
+                        {
+                            "url": "https://example.com",
+                            "icon": {
+                                "icon-name": "icon-linkedin",
+                                "title": "Connect on LinkedIn",
+                                "aria-hidden": true
+                            }
+                        }
+                    ]
+                }
+            },
+            {
+                "profile": {
+                    "name": "Erwin van Hunen",
+                    "company": "Valo Intranet",
+                    "title": "MVP",
+                    "profile-picture": {
+                        "img": "/images/team/erwinvanhunen.jpg",
+                        "alt": "Erwin van Hunen"
+                    }
+                },
+                "card-side-plate": {
+                    "links": [
+                        {
+                            "url": "https://example.com",
+                            "icon": {
+                                "icon-name": "icon-github",
+                                "title": "Follow me on Github",
+                                "aria-hidden": true
+                            }
+                        },
+                        {
+                            "url": "https://example.com",
+                            "icon": {
+                                "icon-name": "icon-linkedin",
+                                "title": "Connect on LinkedIn",
+                                "aria-hidden": true
+                            }
+                        }
+                    ]
+                }
+            },
+            {
+                "profile": {
+                    "name": "Eric Overfield",
+                    "company": "PixelMill",
+                    "title": "MVP",
+                    "profile-picture": {
+                        "img": "/images/team/ericoverfield.jpg",
+                        "alt": "Eric Overfield"
+                    }
+                },
+                "card-side-plate": {
+                    "links": [
+                        {
+                            "url": "https://example.com",
+                            "icon": {
+                                "icon-name": "icon-github",
+                                "title": "Follow me on Github",
+                                "aria-hidden": true
+                            }
+                        },
+                        {
+                            "url": "https://example.com",
+                            "icon": {
+                                "icon-name": "icon-linkedin",
+                                "title": "Connect on LinkedIn",
+                                "aria-hidden": true
+                            }
+                        }
+                    ]
+                }
+            },
+            {
+                "profile": {
+                    "name": "Garry Trinder",
+                    "company": "Microsoft",
+                    "profile-picture": {
+                        "img": "/images/team/garrytrinder.jpg",
+                        "alt": "Garry Trinder"
+                    }
+                },
+                "card-side-plate": {
+                    "links": [
+                        {
+                            "url": "https://example.com",
+                            "icon": {
+                                "icon-name": "icon-github",
+                                "title": "Follow me on Github",
+                                "aria-hidden": true
+                            }
+                        },
+                        {
+                            "url": "https://example.com",
+                            "icon": {
+                                "icon-name": "icon-linkedin",
+                                "title": "Connect on LinkedIn",
+                                "aria-hidden": true
+                            }
+                        }
+                    ]
+                }
+            },
+            {
+                "profile": {
+                    "name": "Gautam Sheth",
+                    "company": "Valo Intranet",
+                    "title": "MVP",
+                    "profile-picture": {
+                        "img": "/images/team/gautamsheth.jpg",
+                        "alt": "Gautam Sheth"
+                    }
+                },
+                "card-side-plate": {
+                    "links": [
+                        {
+                            "url": "https://example.com",
+                            "icon": {
+                                "icon-name": "icon-github",
+                                "title": "Follow me on Github",
+                                "aria-hidden": true
+                            }
+                        },
+                        {
+                            "url": "https://example.com",
+                            "icon": {
+                                "icon-name": "icon-linkedin",
+                                "title": "Connect on LinkedIn",
+                                "aria-hidden": true
+                            }
+                        }
+                    ]
+                }
+            },
+            {
+                "profile": {
+                    "name": "Hugo Bernier",
+                    "company": "Takeda",
+                    "title": "MVP",
+                    "profile-picture": {
+                        "img": "/images/team/hugobernier.jpg",
+                        "alt": "Hugo Bernier"
+                    }
+                },
+                "card-side-plate": {
+                    "links": [
+                        {
+                            "url": "https://example.com",
+                            "icon": {
+                                "icon-name": "icon-github",
+                                "title": "Follow me on Github",
+                                "aria-hidden": true
+                            }
+                        },
+                        {
+                            "url": "https://example.com",
+                            "icon": {
+                                "icon-name": "icon-linkedin",
+                                "title": "Connect on LinkedIn",
+                                "aria-hidden": true
+                            }
+                        }
+                    ]
+                }
+            },
+            {
+                "profile": {
+                    "name": "Jasey Waegebaert",
+                    "company": "Xylos",
+                    "title": "MVP",
+                    "profile-picture": {
+                        "img": "/images/team/jaseywaegebaert.jpg",
+                        "alt": "Jasey Waegebaert"
+                    }
+                },
+                "card-side-plate": {
+                    "links": [
+                        {
+                            "url": "https://example.com",
+                            "icon": {
+                                "icon-name": "icon-github",
+                                "title": "Follow me on Github",
+                                "aria-hidden": true
+                            }
+                        },
+                        {
+                            "url": "https://example.com",
+                            "icon": {
+                                "icon-name": "icon-linkedin",
+                                "title": "Connect on LinkedIn",
+                                "aria-hidden": true
+                            }
+                        }
+                    ]
+                }
+            },
+            {
+                "profile": {
+                    "name": "João J. Mendes",
+                    "company": "Valo",
+                    "title": "MVP",
+                    "profile-picture": {
+                        "img": "/images/team/joaomendes.jpg",
+                        "alt": "João J. Mendes"
+                    }
+                },
+                "card-side-plate": {
+                    "links": [
+                        {
+                            "url": "https://example.com",
+                            "icon": {
+                                "icon-name": "icon-github",
+                                "title": "Follow me on Github",
+                                "aria-hidden": true
+                            }
+                        },
+                        {
+                            "url": "https://example.com",
+                            "icon": {
+                                "icon-name": "icon-linkedin",
+                                "title": "Connect on LinkedIn",
+                                "aria-hidden": true
+                            }
+                        }
+                    ]
+                }
+            },
+            {
+                "profile": {
+                    "name": "Joel Rodrigues",
+                    "company": "Strom Technology",
+                    "title": "MVP",
+                    "profile-picture": {
+                        "img": "/images/team/joelrodrigues.jpg",
+                        "alt": "Joel Rodrigues"
+                    }
+                },
+                "card-side-plate": {
+                    "links": [
+                        {
+                            "url": "https://example.com",
+                            "icon": {
+                                "icon-name": "icon-github",
+                                "title": "Follow me on Github",
+                                "aria-hidden": true
+                            }
+                        },
+                        {
+                            "url": "https://example.com",
+                            "icon": {
+                                "icon-name": "icon-linkedin",
+                                "title": "Connect on LinkedIn",
+                                "aria-hidden": true
+                            }
+                        }
+                    ]
+                }
+            },
+            {
+                "profile": {
+                    "name": "Koen Zomers",
+                    "company": "Microsoft",
+                    "profile-picture": {
+                        "img": "/images/team/koenzomers.jpeg",
+                        "alt": "Koen Zomers"
+                    }
+                },
+                "card-side-plate": {
+                    "links": [
+                        {
+                            "url": "https://example.com",
+                            "icon": {
+                                "icon-name": "icon-github",
+                                "title": "Follow me on Github",
+                                "aria-hidden": true
+                            }
+                        },
+                        {
+                            "url": "https://example.com",
+                            "icon": {
+                                "icon-name": "icon-linkedin",
+                                "title": "Connect on LinkedIn",
+                                "aria-hidden": true
+                            }
+                        }
+                    ]
+                }
+            },
+            {
+                "profile": {
+                    "name": "Marc D. Anderson",
+                    "company": "Sympraxis Consulting",
+                    "title": "MVP",
+                    "profile-picture": {
+                        "img": "/images/team/marcanderson.jpg",
+                        "alt": "Marc D. Anderson"
+                    }
+                },
+                "card-side-plate": {
+                    "links": [
+                        {
+                            "url": "https://example.com",
+                            "icon": {
+                                "icon-name": "icon-github",
+                                "title": "Follow me on Github",
+                                "aria-hidden": true
+                            }
+                        },
+                        {
+                            "url": "https://example.com",
+                            "icon": {
+                                "icon-name": "icon-linkedin",
+                                "title": "Connect on LinkedIn",
+                                "aria-hidden": true
+                            }
+                        }
+                    ]
+                }
+            },
+            {
+                "profile": {
+                    "name": "Markus Möller",
+                    "company": "Avanade",
+                    "title": "MVP",
+                    "profile-picture": {
+                        "img": "/images/team/markusmoller.jpg",
+                        "alt": "Markus Möller"
+                    }
+                },
+                "card-side-plate": {
+                    "links": [
+                        {
+                            "url": "https://example.com",
+                            "icon": {
+                                "icon-name": "icon-github",
+                                "title": "Follow me on Github",
+                                "aria-hidden": true
+                            }
+                        },
+                        {
+                            "url": "https://example.com",
+                            "icon": {
+                                "icon-name": "icon-linkedin",
+                                "title": "Connect on LinkedIn",
+                                "aria-hidden": true
+                            }
+                        }
+                    ]
+                }
+            },
+            {
+                "profile": {
+                    "name": "Martin Lingstuyl",
+                    "company": "I4-YOU",
+                    "title": "MVP",
+                    "profile-picture": {
+                        "img": "/images/team/martinlingstuyl.jpg",
+                        "alt": "Martin Lingstuyl"
+                    }
+                },
+                "card-side-plate": {
+                    "links": [
+                        {
+                            "url": "https://example.com",
+                            "icon": {
+                                "icon-name": "icon-github",
+                                "title": "Follow me on Github",
+                                "aria-hidden": true
+                            }
+                        },
+                        {
+                            "url": "https://example.com",
+                            "icon": {
+                                "icon-name": "icon-linkedin",
+                                "title": "Connect on LinkedIn",
+                                "aria-hidden": true
+                            }
+                        }
+                    ]
+                }
+            },
+            {
+                "profile": {
+                    "name": "Mikael Svenson",
+                    "company": "Microsoft",
+                    "profile-picture": {
+                        "img": "/images/team/mikaelsvenson.jpg",
+                        "alt": "Mikael Svenson"
+                    }
+                },
+                "card-side-plate": {
+                    "links": [
+                        {
+                            "url": "https://example.com",
+                            "icon": {
+                                "icon-name": "icon-github",
+                                "title": "Follow me on Github",
+                                "aria-hidden": true
+                            }
+                        },
+                        {
+                            "url": "https://example.com",
+                            "icon": {
+                                "icon-name": "icon-linkedin",
+                                "title": "Connect on LinkedIn",
+                                "aria-hidden": true
+                            }
+                        }
+                    ]
+                }
+            },
+            {
+                "profile": {
+                    "name": "Milan Holemans",
+                    "company": "Xylos",
+                    "title": "MVP",
+                    "profile-picture": {
+                        "img": "/images/team/milanholemans.jpg",
+                        "alt": "Milan Holemans"
+                    }
+                },
+                "card-side-plate": {
+                    "links": [
+                        {
+                            "url": "https://example.com",
+                            "icon": {
+                                "icon-name": "icon-github",
+                                "title": "Follow me on Github",
+                                "aria-hidden": true
+                            }
+                        },
+                        {
+                            "url": "https://example.com",
+                            "icon": {
+                                "icon-name": "icon-linkedin",
+                                "title": "Connect on LinkedIn",
+                                "aria-hidden": true
+                            }
+                        }
+                    ]
+                }
+            },
+            {
+                "profile": {
+                    "name": "Paolo Pialorsi",
+                    "company": "PiaSys.com",
+                    "title": "MVP",
+                    "profile-picture": {
+                        "img": "/images/team/paolopialorsi.jpeg",
+                        "alt": "Paolo Pialorsi"
+                    }
+                },
+                "card-side-plate": {
+                    "links": [
+                        {
+                            "url": "https://example.com",
+                            "icon": {
+                                "icon-name": "icon-github",
+                                "title": "Follow me on Github",
+                                "aria-hidden": true
+                            }
+                        },
+                        {
+                            "url": "https://example.com",
+                            "icon": {
+                                "icon-name": "icon-linkedin",
+                                "title": "Connect on LinkedIn",
+                                "aria-hidden": true
+                            }
+                        }
+                    ]
+                }
+            },
+            {
+                "profile": {
+                    "name": "Patrick Lamber",
+                    "company": "Experts Inside",
+                    "title": "MVP",
+                    "profile-picture": {
+                        "img": "/images/team/patricklamber.jpg",
+                        "alt": "Patrick Lamber"
+                    }
+                },
+                "card-side-plate": {
+                    "links": [
+                        {
+                            "url": "https://example.com",
+                            "icon": {
+                                "icon-name": "icon-github",
+                                "title": "Follow me on Github",
+                                "aria-hidden": true
+                            }
+                        },
+                        {
+                            "url": "https://example.com",
+                            "icon": {
+                                "icon-name": "icon-linkedin",
+                                "title": "Connect on LinkedIn",
+                                "aria-hidden": true
+                            }
+                        }
+                    ]
+                }
+            },
+            {
+                "profile": {
+                    "name": "Patrick Rodgers",
+                    "company": "Microsoft",
+                    "profile-picture": {
+                        "img": "/images/team/patrickrodgers.jpg",
+                        "alt": "Patrick Rodgers"
+                    }
+                },
+                "card-side-plate": {
+                    "links": [
+                        {
+                            "url": "https://example.com",
+                            "icon": {
+                                "icon-name": "icon-github",
+                                "title": "Follow me on Github",
+                                "aria-hidden": true
+                            }
+                        },
+                        {
+                            "url": "https://example.com",
+                            "icon": {
+                                "icon-name": "icon-linkedin",
+                                "title": "Connect on LinkedIn",
+                                "aria-hidden": true
+                            }
+                        }
+                    ]
+                }
+            },
+            {
+                "profile": {
+                    "name": "Paul Bullock",
+                    "company": "Avanade",
+                    "title": "MVP",
+                    "profile-picture": {
+                        "img": "/images/team/paulbullock.jpg",
+                        "alt": "Paul Bullock"
+                    }
+                },
+                "card-side-plate": {
+                    "links": [
+                        {
+                            "url": "https://example.com",
+                            "icon": {
+                                "icon-name": "icon-github",
+                                "title": "Follow me on Github",
+                                "aria-hidden": true
+                            }
+                        },
+                        {
+                            "url": "https://example.com",
+                            "icon": {
+                                "icon-name": "icon-linkedin",
+                                "title": "Connect on LinkedIn",
+                                "aria-hidden": true
+                            }
+                        }
+                    ]
+                }
+            },
+            {
+                "profile": {
+                    "name": "Rick Van Rousselt",
+                    "company": "Advantive",
+                    "title": "MVP",
+                    "profile-picture": {
+                        "img": "/images/team/rickvanrousselt.jpg",
+                        "alt": "Rick Van Rousselt"
+                    }
+                },
+                "card-side-plate": {
+                    "links": [
+                        {
+                            "url": "https://example.com",
+                            "icon": {
+                                "icon-name": "icon-github",
+                                "title": "Follow me on Github",
+                                "aria-hidden": true
+                            }
+                        },
+                        {
+                            "url": "https://example.com",
+                            "icon": {
+                                "icon-name": "icon-linkedin",
+                                "title": "Connect on LinkedIn",
+                                "aria-hidden": true
+                            }
+                        }
+                    ]
+                }
+            },
+            {
+                "profile": {
+                    "name": "Sébastien Levert",
+                    "company": "Microsoft",
+                    "title": "MVP",
+                    "profile-picture": {
+                        "img": "/images/team/sebastienlevert.jpg",
+                        "alt": "Sébastien Levert"
+                    }
+                },
+                "card-side-plate": {
+                    "links": [
+                        {
+                            "url": "https://example.com",
+                            "icon": {
+                                "icon-name": "icon-github",
+                                "title": "Follow me on Github",
+                                "aria-hidden": true
+                            }
+                        },
+                        {
+                            "url": "https://example.com",
+                            "icon": {
+                                "icon-name": "icon-linkedin",
+                                "title": "Connect on LinkedIn",
+                                "aria-hidden": true
+                            }
+                        }
+                    ]
+                }
+            },
+            {
+                "profile": {
+                    "name": "Sergei Sergeev",
+                    "company": "N/A",
+                    "title": "MVP",
+                    "profile-picture": {
+                        "img": "/images/team/sergeisergeev.jpg",
+                        "alt": "Sergei Sergeev"
+                    }
+                },
+                "card-side-plate": {
+                    "links": [
+                        {
+                            "url": "https://example.com",
+                            "icon": {
+                                "icon-name": "icon-github",
+                                "title": "Follow me on Github",
+                                "aria-hidden": true
+                            }
+                        },
+                        {
+                            "url": "https://example.com",
+                            "icon": {
+                                "icon-name": "icon-linkedin",
+                                "title": "Connect on LinkedIn",
+                                "aria-hidden": true
+                            }
+                        }
+                    ]
+                }
+            },
+            {
+                "profile": {
+                    "name": "Stefan Bauer",
+                    "company": "N8D",
+                    "title": "MVP",
+                    "profile-picture": {
+                        "img": "/images/team/stefanbauer.png",
+                        "alt": "Stefan Bauer"
+                    }
+                },
+                "card-side-plate": {
+                    "links": [
+                        {
+                            "url": "https://example.com",
+                            "icon": {
+                                "icon-name": "icon-github",
+                                "title": "Follow me on Github",
+                                "aria-hidden": true
+                            }
+                        },
+                        {
+                            "url": "https://example.com",
+                            "icon": {
+                                "icon-name": "icon-linkedin",
+                                "title": "Connect on LinkedIn",
+                                "aria-hidden": true
+                            }
+                        }
+                    ]
+                }
+            },
+            {
+                "profile": {
+                    "name": "Stephan Bisser",
+                    "company": "Solvion",
+                    "title": "MVP",
+                    "profile-picture": {
+                        "img": "/images/team/stephanbisser.jpg",
+                        "alt": "Stephan Bisser"
+                    }
+                },
+                "card-side-plate": {
+                    "links": [
+                        {
+                            "url": "https://example.com",
+                            "icon": {
+                                "icon-name": "icon-github",
+                                "title": "Follow me on Github",
+                                "aria-hidden": true
+                            }
+                        },
+                        {
+                            "url": "https://example.com",
+                            "icon": {
+                                "icon-name": "icon-linkedin",
+                                "title": "Connect on LinkedIn",
+                                "aria-hidden": true
+                            }
+                        }
+                    ]
+                }
+            },
+            {
+                "profile": {
+                    "name": "Tetsuya Kawahara",
+                    "company": "N/A",
+                    "title": "MVP",
+                    "profile-picture": {
+                        "img": "/images/team/tetsuyakawahara.jpg",
+                        "alt": "Tetsuya Kawahara"
+                    }
+                },
+                "card-side-plate": {
+                    "links": [
+                        {
+                            "url": "https://example.com",
+                            "icon": {
+                                "icon-name": "icon-github",
+                                "title": "Follow me on Github",
+                                "aria-hidden": true
+                            }
+                        },
+                        {
+                            "url": "https://example.com",
+                            "icon": {
+                                "icon-name": "icon-linkedin",
+                                "title": "Connect on LinkedIn",
+                                "aria-hidden": true
+                            }
+                        }
+                    ]
+                }
+            },
+            {
+                "profile": {
+                    "name": "Thomas Gölles",
+                    "company": "Solvion",
+                    "title": "MVP",
+                    "profile-picture": {
+                        "img": "/images/team/thomasgolles.jpg",
+                        "alt": "Thomas Gölles"
+                    }
+                },
+                "card-side-plate": {
+                    "links": [
+                        {
+                            "url": "https://example.com",
+                            "icon": {
+                                "icon-name": "icon-github",
+                                "title": "Follow me on Github",
+                                "aria-hidden": true
+                            }
+                        },
+                        {
+                            "url": "https://example.com",
+                            "icon": {
+                                "icon-name": "icon-linkedin",
+                                "title": "Connect on LinkedIn",
+                                "aria-hidden": true
+                            }
+                        }
+                    ]
+                }
+            },
+            {
+                "profile": {
+                    "name": "Vesa Juvonen",
+                    "company": "Microsoft",
+                    "profile-picture": {
+                        "img": "/images/team/vesajuvonen.jpg",
+                        "alt": "Vesa Juvonen"
+                    }
+                },
+                "card-side-plate": {
+                    "links": [
+                        {
+                            "url": "https://example.com",
+                            "icon": {
+                                "icon-name": "icon-github",
+                                "title": "Follow me on Github",
+                                "aria-hidden": true
+                            }
+                        },
+                        {
+                            "url": "https://example.com",
+                            "icon": {
+                                "icon-name": "icon-linkedin",
+                                "title": "Connect on LinkedIn",
+                                "aria-hidden": true
+                            }
+                        }
+                    ]
+                }
+            },
+            {
+                "profile": {
+                    "name": "Waldek Mastykarz",
+                    "company": "Microsoft",
+                    "profile-picture": {
+                        "img": "/images/team/waldekmastykarz.jpeg",
+                        "alt": "Waldek Mastykarz"
+                    }
+                },
+                "card-side-plate": {
+                    "links": [
+                        {
+                            "url": "https://example.com",
+                            "icon": {
+                                "icon-name": "icon-github",
+                                "title": "Follow me on Github",
+                                "aria-hidden": true
+                            }
+                        },
+                        {
+                            "url": "https://example.com",
+                            "icon": {
+                                "icon-name": "icon-linkedin",
+                                "title": "Connect on LinkedIn",
+                                "aria-hidden": true
+                            }
+                        }
+                    ]
+                }
+            },
+            {
+                "profile": {
+                    "name": "Wictor Wilén",
+                    "company": "Microsoft",
+                    "profile-picture": {
+                        "img": "/images/team/wictorwilen.jpg",
+                        "alt": "Wictor Wilén"
+                    }
+                },
+                "card-side-plate": {
+                    "links": [
+                        {
+                            "url": "https://example.com",
+                            "icon": {
+                                "icon-name": "icon-github",
+                                "title": "Follow me on Github",
+                                "aria-hidden": true
+                            }
+                        },
+                        {
+                            "url": "https://example.com",
+                            "icon": {
+                                "icon-name": "icon-linkedin",
+                                "title": "Connect on LinkedIn",
+                                "aria-hidden": true
+                            }
+                        }
+                    ]
+                }
+            }
+        ]
+    }
+}

@@ -26,5 +26,28 @@
                 }
             }
         ]
+    },
+    "card-content-event": {
+        "title": "Microsoft 365 & Power Platform Call",
+        "presenter": "presented by Microsoft",
+        "occurence": "Weekly on Tuesdays",
+        "time": "8:00 AM PT / 4:00 PM GMT"
+    },
+    "profile": {
+        "profile-picture": {
+            "img": "/images/team/stefanbauer.png",
+            "alt": "Stefan Bauer"
+        },
+        "name": "Stefan Bauer",
+        "title": "MVP",
+        "profile-company": "N8D"
+    },
+    "blog":{
+        "headline": "Microsoft 365 PnP Weekly - Episode 242 - Robert Schouten",
+        "description": "Microsoft MVP - Robert Schouten joins Microsoft’s Vesa Juvonen and Waldek Mastykarz in a discussion on his career path and community involvement.",
+        "type": "PnP Weekly",
+        "date": "26 Mar, 2024",
+        "author": "Vesa Juvonne"
     }
+
 }

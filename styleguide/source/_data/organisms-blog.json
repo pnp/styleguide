@@ -1,0 +1,60 @@
+{
+    "blog-section": {
+        "blog-posts": [
+            {
+                "blog": {
+                    "headline": "Microsoft 365 PnP Weekly - Episode 242 - Robert Schouten",
+                    "description": "Microsoft MVP - Robert Schouten joins Microsoft’s Vesa Juvonen and Waldek Mastykarz in a discussion on his career path and community involvement.",
+                    "type": "PnP Weekly",
+                    "date": "26 Mar, 2024",
+                    "author": "Vesa Juvonen",
+                    "img": {
+                        "src": "/images/blog/blog-sample-1.webp",
+                        "alt": "Som alt text"
+                    }
+                }
+            },
+            {
+                "blog": {
+                    "headline": "Weekly Agenda - 25th of March 2024 week",
+                    "description": "We want to give you a better overview on what’s happening each week.",
+                    "type": "Weekly Agenda",
+                    "date": "21 Mar, 2024",
+                    "author": "Vesa Juvonen",
+                    "img": {
+                        "src": "/images/blog/blog-sample-2.webp",
+                        "alt": "Som alt text"
+                    }
+                }
+            }
+            ,
+            {
+                "blog": {
+                    "headline": "Power Platform extensibility options",
+                    "description": "Power Platform extensibility options series Power Platform extensibility options - this article Power Apps Power Automate Dataverse Don’t code if you don’t need to When building Power Platform solutions, first evaluate Platform capabilities and use as much of low-code as possible.",
+                    "type": "Community Post",
+                    "date": "26 Mar, 2024",
+                    "author": "Kinga Kazala",
+                    "img": {
+                        "src": "/images/blog/blog-sample-2.webp",
+                        "alt": "Som alt text"
+                    }
+                }
+            }
+            ,
+            {
+                "blog": {
+                    "headline": "Power Platform extensibility options",
+                    "description": "Power Platform extensibility options series Power Platform extensibility options - this article Power Apps Power Automate Dataverse Don’t code if you don’t need to When building Power Platform solutions, first evaluate Platform capabilities and use as much of low-code as possible.",
+                    "type": "Community Post",
+                    "date": "26 Mar, 2024",
+                    "author": "Kinga Kazala",
+                    "img": {
+                        "src": "/images/blog/blog-sample-1.webp",
+                        "alt": "Som alt text"
+                    }
+                }
+            }
+        ]
+    }
+}
