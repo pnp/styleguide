@@ -35,7 +35,7 @@
     },
     "profile": {
         "profile-picture": {
-            "img": "/images/team/stefanbauer.png",
+            "img": "../../images/team/stefanbauer.png",
             "alt": "Stefan Bauer"
         },
         "name": "Stefan Bauer",
@@ -49,7 +49,7 @@
         "date": "26 Mar, 2024",
         "author": "Vesa Juvonne",
         "img": {
-            "src": "/images/blog/blog-sample-1.webp",
+            "src": "../../images/blog/blog-sample-1.webp",
             "alt": "Som alt text"
         }
     },

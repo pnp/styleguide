@@ -14,7 +14,7 @@
     "styles:serve": "gulp",
     "styles:prod": "NODE_ENV=production gulp",
     "docs:publish": "run-s styles:prod pl:build",
-    "start": "run-p pl:serve build:styles"
+    "start": "run-p pl:serve styles:serve"
   },
   "husky": {
     "hooks": {

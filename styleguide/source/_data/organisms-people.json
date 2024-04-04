@@ -12,7 +12,7 @@
                     "name": "April Dunnam",
                     "company": "Microsoft",
                     "profile-picture": {
-                        "img": "/images/team/aprildunnam.jpg",
+                        "img": "../../images/team/aprildunnam.jpg",
                         "alt": "April Dunnam"
                     }
                 },
@@ -43,7 +43,7 @@
                     "company": "Rapid Circle",
                     "title": "MVP",
                     "profile-picture": {
-                        "img": "/images/team/chandaniprajapati.jpg",
+                        "img": "../../images/team/chandaniprajapati.jpg",
                         "alt": "Chandani Prajapati"
                     }
                 },
@@ -74,7 +74,7 @@
                     "company": "Sympraxis Consulting",
                     "title": "MVP",
                     "profile-picture": {
-                        "img": "/images/team/emilymancini.jpg",
+                        "img": "../../images/team/emilymancini.jpg",
                         "alt": "Emily Mancini"
                     }
                 },
@@ -105,7 +105,7 @@
                     "company": "Artis Consulting",
                     "title": "MVP",
                     "profile-picture": {
-                        "img": "/images/team/geethasivasailam.jpg",
+                        "img": "../../images/team/geethasivasailam.jpg",
                         "alt": "Geetha Sivasailam"
                     }
                 },
@@ -136,7 +136,7 @@
                     "company": "Sympraxis Consulting",
                     "title": "MVP",
                     "profile-picture": {
-                        "img": "/images/team/julieturner.jpg",
+                        "img": "../../images/team/julieturner.jpg",
                         "alt": "Julie Turner"
                     }
                 },
@@ -166,7 +166,7 @@
                     "name": "Jocelyn Panchal",
                     "company": "Microsoft",
                     "profile-picture": {
-                        "img": "/images/team/jocelynpanchal.jpg",
+                        "img": "../../images/team/jocelynpanchal.jpg",
                         "alt": "Jocelyn Panchal"
                     }
                 },
@@ -197,7 +197,7 @@
                     "company": "Sulava",
                     "title": "MVP",
                     "profile-picture": {
-                        "img": "/images/team/laurakokkarinen.jpg",
+                        "img": "../../images/team/laurakokkarinen.jpg",
                         "alt": "Laura Kokkarinen"
                     }
                 },
@@ -228,7 +228,7 @@
                     "company": "M365 Princess",
                     "title": "MVP",
                     "profile-picture": {
-                        "img": "/images/team/luisefreese.jpg",
+                        "img": "../../images/team/luisefreese.jpg",
                         "alt": "Luise Freese"
                     }
                 },
@@ -258,7 +258,7 @@
                     "name": "Rabia Williams",
                     "company": "Microsoft",
                     "profile-picture": {
-                        "img": "/images/team/rabiawilliams.jpg",
+                        "img": "../../images/team/rabiawilliams.jpg",
                         "alt": "Rabia Williams"
                     }
                 },
@@ -289,7 +289,7 @@
                     "company": "CPS",
                     "title": "MVP",
                     "profile-picture": {
-                        "img": "/images/team/veroniquelengelle.jpg",
+                        "img": "../../images/team/veroniquelengelle.jpg",
                         "alt": "Veronique Lengelle"
                     }
                 },
@@ -320,7 +320,7 @@
                     "company": "Hitachi Energy",
                     "title": "MVP",
                     "profile-picture": {
-                        "img": "/images/team/adamwojcik.jpg",
+                        "img": "../../images/team/adamwojcik.jpg",
                         "alt": "Adam Wójcik"
                     }
                 },
@@ -351,7 +351,7 @@
                     "company": "BLIS.digital",
                     "title": "MVP",
                     "profile-picture": {
-                        "img": "/images/team/albertjanschot.jpg",
+                        "img": "../../images/team/albertjanschot.jpg",
                         "alt": "Albert-Jan Schot"
                     }
                 },
@@ -381,7 +381,7 @@
                     "name": "Alex Terentiev",
                     "company": "Microsoft",
                     "profile-picture": {
-                        "img": "/images/team/alexterentiev.jpg",
+                        "img": "../../images/team/alexterentiev.jpg",
                         "alt": "Alex Terentiev"
                     }
                 },
@@ -412,7 +412,7 @@
                     "company": "Voitanos",
                     "title": "MVP",
                     "profile-picture": {
-                        "img": "/images/team/andrewconnell.jpg",
+                        "img": "../../images/team/andrewconnell.jpg",
                         "alt": "Andrew Connell"
                     }
                 },
@@ -443,7 +443,7 @@
                     "company": "Arvo Systems",
                     "title": "MVP",
                     "profile-picture": {
-                        "img": "/images/team/andrewkoltyakov.jpg",
+                        "img": "../../images/team/andrewkoltyakov.jpg",
                         "alt": "Andrew Koltyakov"
                     }
                 },
@@ -474,7 +474,7 @@
                     "company": "Content+Cloud",
                     "title": "MVP",
                     "profile-picture": {
-                        "img": "/images/team/anooptatti.jpg",
+                        "img": "../../images/team/anooptatti.jpg",
                         "alt": "Anoop Tatti"
                     }
                 },
@@ -505,7 +505,7 @@
                     "company": "TCS",
                     "title": "MVP",
                     "profile-picture": {
-                        "img": "/images/team/arjunumenon.jpg",
+                        "img": "../../images/team/arjunumenon.jpg",
                         "alt": "Arjun Menon"
                     }
                 },
@@ -536,7 +536,7 @@
                     "company": "DMI",
                     "title": "MVP",
                     "profile-picture": {
-                        "img": "/images/team/beaucameron.jpg",
+                        "img": "../../images/team/beaucameron.jpg",
                         "alt": "Beau Cameron"
                     }
                 },
@@ -566,7 +566,7 @@
                     "name": "Bert Jansen",
                     "company": "Microsoft",
                     "profile-picture": {
-                        "img": "/images/team/bertjansen.jpg",
+                        "img": "../../images/team/bertjansen.jpg",
                         "alt": "Bert Jansen"
                     }
                 },
@@ -596,7 +596,7 @@
                     "name": "Bob German",
                     "company": "Microsoft",
                     "profile-picture": {
-                        "img": "/images/team/bobgerman.jpg",
+                        "img": "../../images/team/bobgerman.jpg",
                         "alt": "Bob German"
                     }
                 },
@@ -627,7 +627,7 @@
                     "company": "Takeda",
                     "title": "MVP",
                     "profile-picture": {
-                        "img": "https://pnp.github.io/images/team/thechriskent.jpg",
+                        "img": "https://pnp.github.io../../images/team/thechriskent.jpg",
                         "alt": "Chris Kent"
                     }
                 },
@@ -657,7 +657,7 @@
                     "name": "Daniel Laskewitz",
                     "company": "Microsoft",
                     "profile-picture": {
-                        "img": "/images/team/daniellaskewitz.jpg",
+                        "img": "../../images/team/daniellaskewitz.jpg",
                         "alt": "Daniel Laskewitz"
                     }
                 },
@@ -687,7 +687,7 @@
                     "name": "David Warner",
                     "company": "Microsoft",
                     "profile-picture": {
-                        "img": "/images/team/davidwarner.jpg",
+                        "img": "../../images/team/davidwarner.jpg",
                         "alt": "David Warner"
                     }
                 },
@@ -718,7 +718,7 @@
                     "company": "Sympraxis Consulting",
                     "title": "MVP",
                     "profile-picture": {
-                        "img": "/images/team/derekcashpeterson.jpg",
+                        "img": "../../images/team/derekcashpeterson.jpg",
                         "alt": "Derek Cash-Peterson"
                     }
                 },
@@ -749,7 +749,7 @@
                     "company": "Struyf Consulting",
                     "title": "MVP",
                     "profile-picture": {
-                        "img": "/images/team/eliostruyf.jpg",
+                        "img": "../../images/team/eliostruyf.jpg",
                         "alt": "Elio Stuyf"
                     }
                 },
@@ -779,7 +779,7 @@
                     "name": "Fabio Franzini",
                     "company": "Apvee Solutions",
                     "profile-picture": {
-                        "img": "/images/team/fabiofranzini.jpg",
+                        "img": "../../images/team/fabiofranzini.jpg",
                         "alt": "Fabio Franzini"
                     }
                 },
@@ -810,7 +810,7 @@
                     "company": "Valo Intranet",
                     "title": "MVP",
                     "profile-picture": {
-                        "img": "/images/team/erwinvanhunen.jpg",
+                        "img": "../../images/team/erwinvanhunen.jpg",
                         "alt": "Erwin van Hunen"
                     }
                 },
@@ -841,7 +841,7 @@
                     "company": "PixelMill",
                     "title": "MVP",
                     "profile-picture": {
-                        "img": "/images/team/ericoverfield.jpg",
+                        "img": "../../images/team/ericoverfield.jpg",
                         "alt": "Eric Overfield"
                     }
                 },
@@ -871,7 +871,7 @@
                     "name": "Garry Trinder",
                     "company": "Microsoft",
                     "profile-picture": {
-                        "img": "/images/team/garrytrinder.jpg",
+                        "img": "../../images/team/garrytrinder.jpg",
                         "alt": "Garry Trinder"
                     }
                 },
@@ -902,7 +902,7 @@
                     "company": "Valo Intranet",
                     "title": "MVP",
                     "profile-picture": {
-                        "img": "/images/team/gautamsheth.jpg",
+                        "img": "../../images/team/gautamsheth.jpg",
                         "alt": "Gautam Sheth"
                     }
                 },
@@ -933,7 +933,7 @@
                     "company": "Takeda",
                     "title": "MVP",
                     "profile-picture": {
-                        "img": "/images/team/hugobernier.jpg",
+                        "img": "../../images/team/hugobernier.jpg",
                         "alt": "Hugo Bernier"
                     }
                 },
@@ -964,7 +964,7 @@
                     "company": "Xylos",
                     "title": "MVP",
                     "profile-picture": {
-                        "img": "/images/team/jaseywaegebaert.jpg",
+                        "img": "../../images/team/jaseywaegebaert.jpg",
                         "alt": "Jasey Waegebaert"
                     }
                 },
@@ -995,7 +995,7 @@
                     "company": "Valo",
                     "title": "MVP",
                     "profile-picture": {
-                        "img": "/images/team/joaomendes.jpg",
+                        "img": "../../images/team/joaomendes.jpg",
                         "alt": "João J. Mendes"
                     }
                 },
@@ -1026,7 +1026,7 @@
                     "company": "Strom Technology",
                     "title": "MVP",
                     "profile-picture": {
-                        "img": "/images/team/joelrodrigues.jpg",
+                        "img": "../../images/team/joelrodrigues.jpg",
                         "alt": "Joel Rodrigues"
                     }
                 },
@@ -1056,7 +1056,7 @@
                     "name": "Koen Zomers",
                     "company": "Microsoft",
                     "profile-picture": {
-                        "img": "/images/team/koenzomers.jpeg",
+                        "img": "../../images/team/koenzomers.jpeg",
                         "alt": "Koen Zomers"
                     }
                 },
@@ -1087,7 +1087,7 @@
                     "company": "Sympraxis Consulting",
                     "title": "MVP",
                     "profile-picture": {
-                        "img": "/images/team/marcanderson.jpg",
+                        "img": "../../images/team/marcanderson.jpg",
                         "alt": "Marc D. Anderson"
                     }
                 },
@@ -1118,7 +1118,7 @@
                     "company": "Avanade",
                     "title": "MVP",
                     "profile-picture": {
-                        "img": "/images/team/markusmoller.jpg",
+                        "img": "../../images/team/markusmoller.jpg",
                         "alt": "Markus Möller"
                     }
                 },
@@ -1149,7 +1149,7 @@
                     "company": "I4-YOU",
                     "title": "MVP",
                     "profile-picture": {
-                        "img": "/images/team/martinlingstuyl.jpg",
+                        "img": "../../images/team/martinlingstuyl.jpg",
                         "alt": "Martin Lingstuyl"
                     }
                 },
@@ -1179,7 +1179,7 @@
                     "name": "Mikael Svenson",
                     "company": "Microsoft",
                     "profile-picture": {
-                        "img": "/images/team/mikaelsvenson.jpg",
+                        "img": "../../images/team/mikaelsvenson.jpg",
                         "alt": "Mikael Svenson"
                     }
                 },
@@ -1210,7 +1210,7 @@
                     "company": "Xylos",
                     "title": "MVP",
                     "profile-picture": {
-                        "img": "/images/team/milanholemans.jpg",
+                        "img": "../../images/team/milanholemans.jpg",
                         "alt": "Milan Holemans"
                     }
                 },
@@ -1241,7 +1241,7 @@
                     "company": "PiaSys.com",
                     "title": "MVP",
                     "profile-picture": {
-                        "img": "/images/team/paolopialorsi.jpeg",
+                        "img": "../../images/team/paolopialorsi.jpeg",
                         "alt": "Paolo Pialorsi"
                     }
                 },
@@ -1272,7 +1272,7 @@
                     "company": "Experts Inside",
                     "title": "MVP",
                     "profile-picture": {
-                        "img": "/images/team/patricklamber.jpg",
+                        "img": "../../images/team/patricklamber.jpg",
                         "alt": "Patrick Lamber"
                     }
                 },
@@ -1302,7 +1302,7 @@
                     "name": "Patrick Rodgers",
                     "company": "Microsoft",
                     "profile-picture": {
-                        "img": "/images/team/patrickrodgers.jpg",
+                        "img": "../../images/team/patrickrodgers.jpg",
                         "alt": "Patrick Rodgers"
                     }
                 },
@@ -1333,7 +1333,7 @@
                     "company": "Avanade",
                     "title": "MVP",
                     "profile-picture": {
-                        "img": "/images/team/paulbullock.jpg",
+                        "img": "../../images/team/paulbullock.jpg",
                         "alt": "Paul Bullock"
                     }
                 },
@@ -1364,7 +1364,7 @@
                     "company": "Advantive",
                     "title": "MVP",
                     "profile-picture": {
-                        "img": "/images/team/rickvanrousselt.jpg",
+                        "img": "../../images/team/rickvanrousselt.jpg",
                         "alt": "Rick Van Rousselt"
                     }
                 },
@@ -1395,7 +1395,7 @@
                     "company": "Microsoft",
                     "title": "MVP",
                     "profile-picture": {
-                        "img": "/images/team/sebastienlevert.jpg",
+                        "img": "../../images/team/sebastienlevert.jpg",
                         "alt": "Sébastien Levert"
                     }
                 },
@@ -1426,7 +1426,7 @@
                     "company": "N/A",
                     "title": "MVP",
                     "profile-picture": {
-                        "img": "/images/team/sergeisergeev.jpg",
+                        "img": "../../images/team/sergeisergeev.jpg",
                         "alt": "Sergei Sergeev"
                     }
                 },
@@ -1457,7 +1457,7 @@
                     "company": "N8D",
                     "title": "MVP",
                     "profile-picture": {
-                        "img": "/images/team/stefanbauer.png",
+                        "img": "../../images/team/stefanbauer.png",
                         "alt": "Stefan Bauer"
                     }
                 },
@@ -1488,7 +1488,7 @@
                     "company": "Solvion",
                     "title": "MVP",
                     "profile-picture": {
-                        "img": "/images/team/stephanbisser.jpg",
+                        "img": "../../images/team/stephanbisser.jpg",
                         "alt": "Stephan Bisser"
                     }
                 },
@@ -1519,7 +1519,7 @@
                     "company": "N/A",
                     "title": "MVP",
                     "profile-picture": {
-                        "img": "/images/team/tetsuyakawahara.jpg",
+                        "img": "../../images/team/tetsuyakawahara.jpg",
                         "alt": "Tetsuya Kawahara"
                     }
                 },
@@ -1550,7 +1550,7 @@
                     "company": "Solvion",
                     "title": "MVP",
                     "profile-picture": {
-                        "img": "/images/team/thomasgolles.jpg",
+                        "img": "../../images/team/thomasgolles.jpg",
                         "alt": "Thomas Gölles"
                     }
                 },
@@ -1580,7 +1580,7 @@
                     "name": "Vesa Juvonen",
                     "company": "Microsoft",
                     "profile-picture": {
-                        "img": "/images/team/vesajuvonen.jpg",
+                        "img": "../../images/team/vesajuvonen.jpg",
                         "alt": "Vesa Juvonen"
                     }
                 },
@@ -1610,7 +1610,7 @@
                     "name": "Waldek Mastykarz",
                     "company": "Microsoft",
                     "profile-picture": {
-                        "img": "/images/team/waldekmastykarz.jpeg",
+                        "img": "../../images/team/waldekmastykarz.jpeg",
                         "alt": "Waldek Mastykarz"
                     }
                 },
@@ -1640,7 +1640,7 @@
                     "name": "Wictor Wilén",
                     "company": "Microsoft",
                     "profile-picture": {
-                        "img": "/images/team/wictorwilen.jpg",
+                        "img": "../../images/team/wictorwilen.jpg",
                         "alt": "Wictor Wilén"
                     }
                 },

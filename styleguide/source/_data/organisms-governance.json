@@ -7,7 +7,7 @@
                     "desc": "Learn more to help you build custom Microsoft Teams apps"
                 },
                 "img": {
-                    "src": "/images/sample-background.webp",
+                    "src": "../../images/sample-background.webp",
                     "alt": "Background Image"
                 }
             },
@@ -17,7 +17,7 @@
                     "desc": "Learn more to help you build custom Microsoft Teams apps"
                 },
                 "img": {
-                    "src": "/images/sample-background.webp",
+                    "src": "../../images/sample-background.webp",
                     "alt": "Background Image"
                 }
             },
@@ -27,7 +27,7 @@
                     "desc": "Learn more to help you build custom Microsoft Teams apps"
                 },
                 "img": {
-                    "src": "/images/sample-background.webp",
+                    "src": "../../images/sample-background.webp",
                     "alt": "Background Image"
                 }
             },
@@ -37,7 +37,7 @@
                     "desc": "Learn more to help you build custom Microsoft Teams apps"
                 },
                 "img": {
-                    "src": "/images/sample-background.webp",
+                    "src": "../../images/sample-background.webp",
                     "alt": "Background Image"
                 }
             }
