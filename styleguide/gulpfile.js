@@ -8,6 +8,8 @@ const {
 
 isProd = process.env.NODE_ENV === 'production' ? true : false;
 
+console.debug("IS PROD :::: ", isProd);
+
 const gulpLoadPlugins = require('gulp-load-plugins');
 
 const $ = gulpLoadPlugins();
@@ -52,4 +54,8 @@ const styles = () => {
 
 };
 
+if(isProd){
+    exports.default = parallel(styles);
+    return;
+}
 exports.default = parallel(styles, baseWatch);
