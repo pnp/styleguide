@@ -1,4 +1,4 @@
 npm run docs:publish --workspace=styleguide
 git add .
 git commit -am 'chore(docs): Documentation update'
-HUSKY=0 git push
+HUSKY=0
