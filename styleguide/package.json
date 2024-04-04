@@ -13,7 +13,7 @@
     "pl:version": "patternlab --version",
     "styles:serve": "gulp",
     "styles:prod": "NODE_ENV=production gulp",
-    "docs:publish": "run-s styles:serve pl:build",
+    "docs:publish": "run-s styles:prod pl:build",
     "start": "run-p pl:serve build:styles"
   },
   "husky": {

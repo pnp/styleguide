@@ -1,1 +1,1 @@
-npm run docs:prod --workspace=styleguide
+npm run docs:publish --workspace=styleguide
