@@ -4,6 +4,11 @@
         "styleguide"
     ],
     "script": {
-        "pre-push": "npm run docs:publish --workspace=styleguide && git add . && git commit -am 'chore(docs): Documentation update"
+        
+    },
+    "husky": {
+        "hooks": {
+            "pre-push": "npm run docs:publish --workspace=styleguide && git add . && git commit -am 'chore(docs): Documentation update"
+        }
     }
 }
