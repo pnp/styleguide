@@ -2,5 +2,8 @@
     "name": "pnp-styleguide",
     "workspaces": [
         "styleguide"
-    ]
+    ],
+    "script": {
+        "pre-push": "npm run docs:publish --workspace=styleguide && git add . && git commit -am 'chore(docs): Documentation update"
+    }
 }
