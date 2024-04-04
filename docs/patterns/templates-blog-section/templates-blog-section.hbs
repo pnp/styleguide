@@ -1,0 +1,21 @@
+{{#blog-section }}
+<section class="section-base blog">
+    <header class="section-header">
+        <h1>Latest blog posts</h1>
+        <p>Stay up-to-date with the latest in Microsoft 365 &amp; Power Platform topics</p>
+    </header>
+    <div class="section-inner">
+        <header>
+            <H1>{{ headline }}</H1>
+            <p>{{ description }}</p>
+        </header>
+        <menu class="section-grid">
+            {{#each blog-posts }}
+            <li>
+                {{>organisms-blog-card}}
+            </li>
+            {{/each}}
+        </menu>
+    </div>
+</section>
+{{/blog-section }}

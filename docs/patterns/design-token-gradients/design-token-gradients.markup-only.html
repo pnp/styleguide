@@ -1,0 +1,54 @@
+<style>
+    @property --rotation {
+        syntax: '<angle>';
+        inherits: false;
+        initial-value: 45deg;
+    }
+
+    .animated {
+        --rotation: 45deg;
+        animation: rotatebackground 3s linear infinite;
+        background-image: linear-gradient(var(--rotation), var(--yellow) 0, var(--red) 25%, var(--orange) 50%, var(--magenta) 75%, var(--purple) 100%);
+        background-size: 200% 200%;
+    }
+
+    @keyframes rotatebackground {
+        from {
+            --rotation: 45deg;
+            background-size: 300% 300%;
+        }
+
+        33% {
+            --rotation: 135deg;
+            background-size: 100% 100%;
+        }
+
+        66% {
+            --rotation: 270deg;
+            background-size: 400% 400%;
+        }
+        100% {
+            --rotation: 45deg;
+            background-size: 100% 100%;
+        }
+    }
+
+</style>
+
+<div class="show-gradient"
+    style="height: 3rem; background-image: linear-gradient(to left, var(--blue) 0, var(--light-blue) 100%)">
+    &nbsp;
+</div>
+<div class="show-gradient"
+    style="height: 3rem; background-image: linear-gradient(to left, var(--orange) 0, var(--red) 100%)">
+    &nbsp;
+</div>
+
+<div class="show-gradient"
+    style="height: 3rem; background-image: linear-gradient(45deg, var(--yellow) 0, var(--red) 50%, var(--orange) 100%)">
+    &nbsp;
+</div>
+
+<div class="show-gradient animated" style="height: 500px; width: 500px;">
+    &nbsp;
+</div>

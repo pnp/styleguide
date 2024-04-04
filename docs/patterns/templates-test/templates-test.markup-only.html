@@ -1,0 +1,16 @@
+<div style="visibility: hidden">
+    <svg viewBox="0 0 200 200" xmlns='http://www.w3.org/2000/svg'>
+        <defs>
+            <filter id='noiseFilter'>
+                <feTurbulence type='fractalNoise' baseFrequency='1.3' numOctaves='5' stitchTiles='stitch' />
+            </filter>
+        </defs>
+        <symbol id="tester">
+            <rect width='100%' height='100%' filter='url(#noiseFilter)' />
+        </symbol>
+    </svg>
+</div>
+
+<div class="stage stage-4" style="background-image: url(#tester); height: 100%; width: 100%;"></div>
+hello world
+</div>
