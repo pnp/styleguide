@@ -47,7 +47,14 @@
         "description": "Microsoft MVP - Robert Schouten joins Microsoft’s Vesa Juvonen and Waldek Mastykarz in a discussion on his career path and community involvement.",
         "type": "PnP Weekly",
         "date": "26 Mar, 2024",
-        "author": "Vesa Juvonne"
+        "author": "Vesa Juvonne",
+        "img": {
+            "src": "/images/blog/blog-sample-1.webp",
+            "alt": "Som alt text"
+        }
+    },
+    "card-side-hor":{
+        "headline": "Samples",
+        "desc"
     }
-
 }

@@ -1,7 +1,7 @@
-{{#blog-section }}
+{{#guideance-section }}
 <section class="section-base blog">
     <header class="section-header">
-        <h1>Latest blog posts</h1>
+        <h1>Guideance</h1>
         <p>Stay up-to-date with the latest in Microsoft 365 &amp; Power Platform topics</p>
     </header>
     <div class="section-inner">
@@ -10,12 +10,12 @@
             <p>{{ description }}</p>
         </header>
         <menu class="section-grid">
-            {{#each blog-posts }}
+            {{#each guideance }}
             <li>
-                {{>organisms-blog-card}}
+                {{>organisms-sample-card}}
             </li>
             {{/each}}
         </menu>
     </div>
 </section>
-{{/blog-section }}
+{{/guideance-section }}

@@ -1,0 +1,11 @@
+{
+    "bodyClass": "card-test",
+    "card-side-hor":{
+        "headline": "Microsoft Teams",
+        "desc": "Learn more to help you build custom Microsoft Teams apps"
+    },
+    "img": {
+        "src": "/images/sample-background.webp",
+        "alt": "Background Image"
+    }
+}
