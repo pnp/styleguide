@@ -2,5 +2,5 @@ export HUSKY=0
 git pull --rebase
 npm run docs:publish --workspace=styleguide
 git add .
-git commit -am 'chore(docs): Documentation update'
+git commit --amend --no-edit
 unset HUSKEY
