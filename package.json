@@ -1,9 +1,6 @@
 {
-    "pnp-styleguide",
+    "name": "pnp-styleguide",
     "workspaces": [
-        "stylesguide"
-    ],
-    "scripts": {
-        "prepare": "husky"
-    }
+        "styleguide"
+    ]
 }
