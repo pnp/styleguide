@@ -9,7 +9,7 @@
                     "date": "26 Mar, 2024",
                     "author": "Vesa Juvonen",
                     "img": {
-                        "src": "/images/blog/blog-sample-1.webp",
+                        "src": "../../images/blog/blog-sample-1.webp",
                         "alt": "Som alt text"
                     }
                 }
@@ -22,7 +22,7 @@
                     "date": "21 Mar, 2024",
                     "author": "Vesa Juvonen",
                     "img": {
-                        "src": "/images/blog/blog-sample-2.webp",
+                        "src": "../../images/blog/blog-sample-2.webp",
                         "alt": "Som alt text"
                     }
                 }
@@ -36,7 +36,7 @@
                     "date": "26 Mar, 2024",
                     "author": "Kinga Kazala",
                     "img": {
-                        "src": "/images/blog/blog-sample-2.webp",
+                        "src": "../../images/blog/blog-sample-2.webp",
                         "alt": "Som alt text"
                     }
                 }
@@ -50,7 +50,7 @@
                     "date": "26 Mar, 2024",
                     "author": "Kinga Kazala",
                     "img": {
-                        "src": "/images/blog/blog-sample-1.webp",
+                        "src": "../../images/blog/blog-sample-1.webp",
                         "alt": "Som alt text"
                     }
                 }
