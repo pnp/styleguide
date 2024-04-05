@@ -6,7 +6,9 @@ module.exports = {
     ],
     "rules": {
         "at-rule-empty-line-before": "always",
-        "rule-empty-line-before": "never-multi-line",
+        "rule-empty-line-before": [
+            "always"
+        ],
         "order/order": [
             "custom-properties",
             "declarations"
@@ -298,6 +300,7 @@ module.exports = {
                         "accent-color",
                         "backdrop-filter",
                         "backface-visibility",
+                        "background",
                         "background-attachment",
                         "background-blend-mode",
                         "background-clip",
