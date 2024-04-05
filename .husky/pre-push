@@ -1,5 +1,6 @@
 export HUSKY=0
 git pull --rebase
+echo "Update pattern labs"
 npm run docs:publish --workspace=styleguide
 git add .
 git commit --amend --no-edit
