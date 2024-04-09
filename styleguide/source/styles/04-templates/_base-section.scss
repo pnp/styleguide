@@ -82,6 +82,9 @@
         margin-bottom: 25vh;
 
         .section-grid {
+            @media screen and (min-width: 1280px) {
+                grid-template-columns: repeat(3, minmax(0, 1fr));
+            }
             @media screen and (max-width: 640px) {
                 grid-template-columns: repeat(1, 1fr);
             }
