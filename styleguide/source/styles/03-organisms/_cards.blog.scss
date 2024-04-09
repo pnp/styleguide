@@ -112,12 +112,15 @@
     aspect-ratio: unset;
 
     grid-template-columns: 1fr;
-    grid-template-rows: auto auto;
+    grid-template-rows: max-content max-content;
     grid-auto-rows: max-content;
 
     transition: all 0.35s ease-in-out;
+    height: auto;
 
     &:hover {
+        position: relative;
+        z-index: 10;
         transform: translate(10px, 10px) scale(1.1);
 
         .blog-media-img {
