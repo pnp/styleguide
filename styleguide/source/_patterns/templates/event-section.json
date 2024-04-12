@@ -32,14 +32,19 @@
                         }
                     ]
                 },
-                "card-content-event":{
+                "card-content-event": {
                     "title": "Microsoft 365 & Power Platform Call",
                     "presenter": "presented by Microsoft",
                     "occurence": "Weekly on Tuesdays",
-                    "time": "8:00 AM PT / 4:00 PM GMT"
+                    "time": "8:00 AM PT / 4:00 PM GMT",
+                    "status": {
+                        "card-status": {
+                            "status": "live",
+                            "text": "Live"
+                        }
+                    }
                 }
-            }
-            ,
+            },
             {
                 "card-side-plate": {
                     "links": [
@@ -69,14 +74,19 @@
                         }
                     ]
                 },
-                "card-content-event":{
+                "card-content-event": {
                     "title": "Viva Connections & SharePoint Framework",
                     "presenter": "presented by the Community",
                     "occurence": "Bi-weekly on Thursdays",
-                    "time": "7:00 AM PT / 3:00 PM GMT"
+                    "time": "7:00 AM PT / 3:00 PM GMT",
+                    "status": {
+                        "card-status": {
+                            "status": "onhaitus",
+                            "text": "On Haitus"
+                        }
+                    }
                 }
-            }
-            ,
+            },
             {
                 "card-side-plate": {
                     "links": [
@@ -106,14 +116,19 @@
                         }
                     ]
                 },
-                "card-content-event":{
+                "card-content-event": {
                     "title": "Microsoft 365 & Power Platform call",
                     "presenter": "presented by the Community",
                     "occurence": "Bi-weekly on Thursdays",
-                    "time": "7:00 AM PT / 3:00 PM GMT"
+                    "time": "7:00 AM PT / 3:00 PM GMT",
+                    "status": {
+                        "card-status": {
+                            "status": "moved",
+                            "text": "moved please check below"
+                        }
+                    }
                 }
-            }
-            ,
+            },
             {
                 "card-side-plate": {
                     "links": [
@@ -143,14 +158,19 @@
                         }
                     ]
                 },
-                "card-content-event":{
+                "card-content-event": {
                     "title": "Power Platform Monthly Call",
                     "presenter": "presented by the Community",
                     "occurence": "Third Wednesday of every month",
-                    "time": "8:00 AM PT / 4:00 PM GMT"
+                    "time": "8:00 AM PT / 4:00 PM GMT",
+                    "status": {
+                        "card-status": {
+                            "status": "cancelled",
+                            "text": "Cancelled due deprecation"
+                        }
+                    }
                 }
-            }
-            ,
+            },
             {
                 "card-side-plate": {
                     "links": [
@@ -172,14 +192,19 @@
                         }
                     ]
                 },
-                "card-content-event":{
+                "card-content-event": {
                     "title": "Office Add-ins",
                     "presenter": "presented by Microsoft",
                     "occurence": "Second Wednesday of every month",
-                    "time": "7:00 AM PT / 3:00 PM GMT"
+                    "time": "7:00 AM PT / 3:00 PM GMT",
+                    "status": {
+                        "card-status": {
+                            "status": "moved",
+                            "text": "Move due to overlap with Copilot AI training of new employees. Ask Chat GPT."
+                        }
+                    }
                 }
-            }
-            ,
+            },
             {
                 "card-side-plate": {
                     "links": [
@@ -209,7 +234,7 @@
                         }
                     ]
                 },
-                "card-content-event":{
+                "card-content-event": {
                     "title": "Maturity Model for Microsoft 365",
                     "presenter": "presented by the Community",
                     "occurence": "Third Tuesday of every month",

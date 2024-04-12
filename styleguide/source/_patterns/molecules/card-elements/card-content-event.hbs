@@ -2,9 +2,12 @@
 <div class="card-main">
     <header class="card-header">
         <h1>
-        {{ title }}
-        {{#if presenter}}<br>{{presenter}}{{/if}}
+            {{ title }}
+            {{#if presenter}}<br>{{presenter}}{{/if}}
         </h1>
+        {{#status}}
+            {{>molecules-card-status }}
+        {{/status}}
     </header>
     <div class="event-occurance">
         {{ occurence }}<br>

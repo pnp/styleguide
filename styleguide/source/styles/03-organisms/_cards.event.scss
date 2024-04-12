@@ -4,6 +4,9 @@
 
     &.event{
         height: 100%;
+        .card-main{
+            gap: unset;
+        }
         .card-header{
             color: dt.$dark-purple;
             h1{
