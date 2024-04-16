@@ -1,0 +1,14 @@
+{{#upcomig-event-card}}
+<article class="card upcoming">
+    <div class="upcoming-content">
+        {{> molecules-card-upcoming-title }}
+        <menu class="upcoming-list">
+            {{#each event}}
+            <li>
+                {{> molecules-card-upcoming-event}}
+            </li>
+            {{/each}}
+        </menu>
+    </div>
+</article>
+{{/upcomig-event-card}}

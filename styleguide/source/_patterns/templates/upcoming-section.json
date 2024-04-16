@@ -1,0 +1,303 @@
+{
+    "upcoming-section": {
+        "events": [
+            {
+                "upcomig-event-card": {
+                    "upcoming-title": {
+                        "time-utc": "2024-04-16T18:07:43+00:00Z",
+                        "time": 17,
+                        "weekday": "Thursday"
+                    },
+                    "event": [
+                        {
+                            "upcoming-event": {
+                                "time-utc": "2024-04-16T18:07:43+00:00Z",
+                                "time": "8:00 pm",
+                                "title": "Microsoft 365 & Power Platform Call",
+                                "card-status": {
+                                    "status": "live",
+                                    "text": "live"
+                                }
+                            }
+                        },
+                        {
+                            "upcoming-event": {
+                                "time-utc": "2024-04-16T18:07:43+00:00Z",
+                                "time": "8:00 pm",
+                                "title": "Microsoft 365 & Power Platform Call",
+                                "card-status": {
+                                    "status": "live",
+                                    "text": "live"
+                                }
+                            }
+                        }
+                    ]
+                }
+            },
+            {
+                "upcomig-event-card": {
+                    "upcoming-title": {
+                        "time-utc": "2024-04-16T18:07:43+00:00Z",
+                        "time": 24,
+                        "weekday": "Thursday"
+                    },
+                    "event": [
+                        {
+                            "upcoming-event": {
+                                "time-utc": "2024-04-16T18:07:43+00:00Z",
+                                "time": "8:00 pm",
+                                "title": "Microsoft 365 & Power Platform Call",
+                                "card-status": {
+                                    "status": "live",
+                                    "text": "live"
+                                }
+                            }
+                        }
+                    ]
+                }
+            },
+            {
+                "upcomig-event-card": {
+                    "upcoming-title": {
+                        "time-utc": "2024-04-16T18:07:43+00:00Z",
+                        "time": 31,
+                        "weekday": "Thursday"
+                    },
+                    "event": [
+                        {
+                            "upcoming-event": {
+                                "time-utc": "2024-04-16T18:07:43+00:00Z",
+                                "time": "8:00 pm",
+                                "title": "Microsoft 365 & Power Platform Call",
+                                "card-status": {
+                                    "status": "live",
+                                    "text": "live"
+                                }
+                            }
+                        },
+                        {
+                            "upcoming-event": {
+                                "time-utc": "2024-04-16T18:07:43+00:00Z",
+                                "time": "8:00 pm",
+                                "title": "Microsoft 365 & Power Platform Call",
+                                "card-status": {
+                                    "status": "live",
+                                    "text": "live"
+                                }
+                            }
+                        },
+                        {
+                            "upcoming-event": {
+                                "time-utc": "2024-04-16T18:07:43+00:00Z",
+                                "time": "8:00 pm",
+                                "title": "Microsoft 365 & Power Platform Call",
+                                "card-status": {
+                                    "status": "live",
+                                    "text": "live"
+                                }
+                            }
+                        }
+                    ]
+                }
+            },
+            {
+                "upcomig-event-card": {
+                    "upcoming-title": {
+                        "time-utc": "2024-04-16T18:07:43+00:00Z",
+                        "time": 17,
+                        "weekday": "Thursday"
+                    },
+                    "event": [
+                        {
+                            "upcoming-event": {
+                                "time-utc": "2024-04-16T18:07:43+00:00Z",
+                                "time": "8:00 pm",
+                                "title": "Microsoft 365 & Power Platform Call",
+                                "card-status": {
+                                    "status": "live",
+                                    "text": "live"
+                                }
+                            }
+                        },
+                        {
+                            "upcoming-event": {
+                                "time-utc": "2024-04-16T18:07:43+00:00Z",
+                                "time": "8:00 pm",
+                                "title": "Microsoft 365 & Power Platform Call",
+                                "card-status": {
+                                    "status": "live",
+                                    "text": "live"
+                                }
+                            }
+                        }
+                    ]
+                }
+            },
+            {
+                "upcomig-event-card": {
+                    "upcoming-title": {
+                        "time-utc": "2024-04-16T18:07:43+00:00Z",
+                        "time": 24,
+                        "weekday": "Thursday"
+                    },
+                    "event": [
+                        {
+                            "upcoming-event": {
+                                "time-utc": "2024-04-16T18:07:43+00:00Z",
+                                "time": "8:00 pm",
+                                "title": "Microsoft 365 & Power Platform Call",
+                                "card-status": {
+                                    "status": "live",
+                                    "text": "live"
+                                }
+                            }
+                        }
+                    ]
+                }
+            },
+            {
+                "upcomig-event-card": {
+                    "upcoming-title": {
+                        "time-utc": "2024-04-16T18:07:43+00:00Z",
+                        "time": 31,
+                        "weekday": "Thursday"
+                    },
+                    "event": [
+                        {
+                            "upcoming-event": {
+                                "time-utc": "2024-04-16T18:07:43+00:00Z",
+                                "time": "8:00 pm",
+                                "title": "Microsoft 365 & Power Platform Call",
+                                "card-status": {
+                                    "status": "live",
+                                    "text": "live"
+                                }
+                            }
+                        },
+                        {
+                            "upcoming-event": {
+                                "time-utc": "2024-04-16T18:07:43+00:00Z",
+                                "time": "8:00 pm",
+                                "title": "Microsoft 365 & Power Platform Call",
+                                "card-status": {
+                                    "status": "live",
+                                    "text": "live"
+                                }
+                            }
+                        },
+                        {
+                            "upcoming-event": {
+                                "time-utc": "2024-04-16T18:07:43+00:00Z",
+                                "time": "8:00 pm",
+                                "title": "Microsoft 365 & Power Platform Call",
+                                "card-status": {
+                                    "status": "live",
+                                    "text": "live"
+                                }
+                            }
+                        }
+                    ]
+                }
+            },
+            {
+                "upcomig-event-card": {
+                    "upcoming-title": {
+                        "time-utc": "2024-04-16T18:07:43+00:00Z",
+                        "time": 17,
+                        "weekday": "Thursday"
+                    },
+                    "event": [
+                        {
+                            "upcoming-event": {
+                                "time-utc": "2024-04-16T18:07:43+00:00Z",
+                                "time": "8:00 pm",
+                                "title": "Microsoft 365 & Power Platform Call",
+                                "card-status": {
+                                    "status": "live",
+                                    "text": "live"
+                                }
+                            }
+                        },
+                        {
+                            "upcoming-event": {
+                                "time-utc": "2024-04-16T18:07:43+00:00Z",
+                                "time": "8:00 pm",
+                                "title": "Microsoft 365 & Power Platform Call",
+                                "card-status": {
+                                    "status": "live",
+                                    "text": "live"
+                                }
+                            }
+                        }
+                    ]
+                }
+            },
+            {
+                "upcomig-event-card": {
+                    "upcoming-title": {
+                        "time-utc": "2024-04-16T18:07:43+00:00Z",
+                        "time": 24,
+                        "weekday": "Thursday"
+                    },
+                    "event": [
+                        {
+                            "upcoming-event": {
+                                "time-utc": "2024-04-16T18:07:43+00:00Z",
+                                "time": "8:00 pm",
+                                "title": "Microsoft 365 & Power Platform Call",
+                                "card-status": {
+                                    "status": "live",
+                                    "text": "live"
+                                }
+                            }
+                        }
+                    ]
+                }
+            },
+            {
+                "upcomig-event-card": {
+                    "upcoming-title": {
+                        "time-utc": "2024-04-16T18:07:43+00:00Z",
+                        "time": 31,
+                        "weekday": "Thursday"
+                    },
+                    "event": [
+                        {
+                            "upcoming-event": {
+                                "time-utc": "2024-04-16T18:07:43+00:00Z",
+                                "time": "8:00 pm",
+                                "title": "Microsoft 365 & Power Platform Call",
+                                "card-status": {
+                                    "status": "live",
+                                    "text": "live"
+                                }
+                            }
+                        },
+                        {
+                            "upcoming-event": {
+                                "time-utc": "2024-04-16T18:07:43+00:00Z",
+                                "time": "8:00 pm",
+                                "title": "Microsoft 365 & Power Platform Call",
+                                "card-status": {
+                                    "status": "live",
+                                    "text": "live"
+                                }
+                            }
+                        },
+                        {
+                            "upcoming-event": {
+                                "time-utc": "2024-04-16T18:07:43+00:00Z",
+                                "time": "8:00 pm",
+                                "title": "Microsoft 365 & Power Platform Call",
+                                "card-status": {
+                                    "status": "live",
+                                    "text": "live"
+                                }
+                            }
+                        }
+                    ]
+                }
+            }
+        ]
+    }
+}

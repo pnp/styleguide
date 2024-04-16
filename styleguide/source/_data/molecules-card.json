@@ -56,5 +56,19 @@
     "card-side-hor":{
         "headline": "Samples",
         "desc"
+    },
+    "upcoming-title": {
+        "time-utc": "2024-04-16T18:07:43+00:00Z",
+        "time": 17,
+        "weekday": "Thursday"
+    },
+    "upcoming-event": {
+        "time-utc": "2024-04-16T18:07:43+00:00Z",
+        "time": "8:00",
+        "title": "Microsoft 365 & Power Platform Call",
+        "card-status": {
+            "status": "live",
+            "text": "live"
+        }
     }
 }
