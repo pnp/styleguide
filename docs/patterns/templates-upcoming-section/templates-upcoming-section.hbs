@@ -1,0 +1,16 @@
+{{#upcoming-section}}
+<section class="section-base upcoming">
+ <header class="section-header">
+        <h1>Upcoming Events</h1>
+    </header>
+    <menu class="section-grid">
+        {{#each events}}
+        <li>
+            {{#this}}
+            {{> organisms-upcoming-event-card}}
+            {{/this}}
+        </li>
+        {{/each}}
+    </menu>
+</section>
+{{/upcoming-section}}
