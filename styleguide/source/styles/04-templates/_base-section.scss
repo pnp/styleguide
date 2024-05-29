@@ -32,9 +32,6 @@
     @media screen and (max-width: 720px) {
         grid-template-columns: repeat(1, minmax(0, 1fr));
     }
-    li{
-        content-visibility: visible;
-    }
 }
 
 .section-header {
@@ -70,7 +67,6 @@
 }
 
 .section-base {
-    content-visibility: visible;
     min-height: 80vh;
 
     background-image: url(../images/side-bg-right.webp), url(../images/side-bg-left.webp);
