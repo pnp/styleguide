@@ -15,6 +15,10 @@
   contain-intrinsic-size: auto;
   content-visibility: visible;
 
+  backdrop-filter: blur(20px) saturate(190%) brightness(110%);
+
+  background-color: rgba(255, 255, 255, 0.75);
+  will-cahnge: size;
 }
 
 .card-header {
